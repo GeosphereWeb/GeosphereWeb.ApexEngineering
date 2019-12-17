@@ -1,0 +1,14 @@
+.GeosphereWeb-header {
+  background-color: #20c997;
+  position: absolute;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.logo {
+  display: flex;
+  flex-grow: 1;
+}
+
+

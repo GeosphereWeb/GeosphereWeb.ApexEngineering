@@ -1,0 +1,11 @@
+'GeosphereWeb.ApexEngineering:Document.Page':
+  superTypes:
+    'GeosphereWeb.ApexEngineering:Document.AbstractPage': true
+    'GeosphereWeb.ApexEngineering:Mixin.InspectorGeneral': true
+  ui:
+    label: i18n
+    icon: icon-file-o
+    position: 100
+  constraints:
+    nodeTypes:
+      'Neos.NodeTypes:Page': false

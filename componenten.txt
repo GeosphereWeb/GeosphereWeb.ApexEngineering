@@ -1,0 +1,8 @@
+composer require jonnitto/prettyembedyoutube
+composer require webexcess/multicolumn
+
+"techdivision/card" : "~1.0"
+composer require techdivision/card
+
+"techdivision/card-decks" : "~1.0"
+composer require techdivision/card-decks

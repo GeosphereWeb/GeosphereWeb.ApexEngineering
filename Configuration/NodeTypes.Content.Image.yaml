@@ -1,0 +1,8 @@
+'GeosphereWeb.ApexEngineering:Content.Image':
+  superTypes:
+    'Neos.Neos:Content': true
+    'GeosphereWeb.ApexEngineering:Mixin.Image': true
+  ui:
+    label: Image
+    icon: icon-picture
+    position: 300
