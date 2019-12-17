@@ -6,46 +6,1271 @@
     <variant sortingIndex="100" workspace="live" nodeType="GeosphereWeb.ApexEngineering:Document.HomePage" version="1" removed="" hidden="" hiddenInIndex="">
      <dimensions/>
      <accessRoles __type="array"/>
-     <creationDateTime __type="object" __classname="DateTime">2018-06-26T23:20:17+02:00</creationDateTime>
-     <lastModificationDateTime __type="object" __classname="DateTime">2018-06-26T23:20:17+02:00</lastModificationDateTime>
+     <creationDateTime __type="object" __classname="DateTime">2018-06-26T23:20:17+00:00</creationDateTime>
+     <lastModificationDateTime __type="object" __classname="DateTime">2018-06-26T23:20:17+00:00</lastModificationDateTime>
      <properties>
       <title __type="string">Home</title>
       <uriPathSegment __type="string">home</uriPathSegment>
      </properties>
     </variant>
-    <node identifier="6c302e0e-1d54-4697-a7ec-88d4e0d010cf" nodeName="main">
+    <variant sortingIndex="100" workspace="live" nodeType="GeosphereWeb.ApexEngineering:Document.HomePage" version="13" removed="" hidden="" hiddenInIndex="">
+     <dimensions>
+      <language>en</language>
+     </dimensions>
+     <accessRoles __type="array"/>
+     <creationDateTime __type="object" __classname="DateTime">2019-10-18T12:33:06+00:00</creationDateTime>
+     <lastModificationDateTime __type="object" __classname="DateTime">2019-12-16T22:22:37+00:00</lastModificationDateTime>
+     <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-16T22:22:37+00:00</lastPublicationDateTime>
+     <properties>
+      <title __type="string">Home</title>
+      <uriPathSegment __type="string">home</uriPathSegment>
+      <footerItems __type="array">
+       <entry0 __type="string">dbbd614d-ee89-41e1-8c9e-2a134821de59</entry0>
+       <entry1 __type="string">bcf76676-e49a-4f06-bbb1-61f01a2760d6</entry1>
+       <entry2 __type="string">e66c454e-4b90-43f0-9a75-8547dcdf525a</entry2>
+      </footerItems>
+     </properties>
+    </variant>
+    <node identifier="330c54df-4c67-5aa2-d70f-5f9927f7644e" nodeName="footer">
+     <variant sortingIndex="1100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="1" removed="" hidden="" hiddenInIndex="">
+      <dimensions>
+       <language>en</language>
+      </dimensions>
+      <accessRoles __type="array"/>
+      <creationDateTime __type="object" __classname="DateTime">2019-12-13T16:59:11+00:00</creationDateTime>
+      <lastModificationDateTime __type="object" __classname="DateTime">2019-12-13T16:59:11+00:00</lastModificationDateTime>
+      <properties/>
+     </variant>
+     <node identifier="b96079c6-804f-41fc-bb27-2d46cc093708" nodeName="node-a8sxwrhxsd20p">
+      <variant sortingIndex="300" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Content.Columns.Two" version="2" removed="" hidden="" hiddenInIndex="">
+       <dimensions>
+        <language>en</language>
+       </dimensions>
+       <accessRoles __type="array"/>
+       <creationDateTime __type="object" __classname="DateTime">2019-12-15T20:56:09+00:00</creationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2019-12-15T20:57:10+00:00</lastModificationDateTime>
+       <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-15T20:57:10+00:00</lastPublicationDateTime>
+       <properties>
+        <breakpoints __type="string">md</breakpoints>
+       </properties>
+      </variant>
+      <node identifier="82425b9a-9f15-f432-fca2-0accf22552cd" nodeName="column0">
+       <variant sortingIndex="100" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Collection.Content.Column" version="2" removed="" hidden="" hiddenInIndex="">
+        <dimensions>
+         <language>en</language>
+        </dimensions>
+        <accessRoles __type="array"/>
+        <creationDateTime __type="object" __classname="DateTime">2019-12-15T20:56:09+00:00</creationDateTime>
+        <lastModificationDateTime __type="object" __classname="DateTime">2019-12-15T20:57:10+00:00</lastModificationDateTime>
+        <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-15T20:57:10+00:00</lastPublicationDateTime>
+        <properties/>
+       </variant>
+       <node identifier="31b69875-5f16-4a35-a31e-fd6c10afa14d" nodeName="node-ydtnf1wc74u5q">
+        <variant sortingIndex="100" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Content.Text" version="8" removed="" hidden="" hiddenInIndex="">
+         <dimensions>
+          <language>en</language>
+         </dimensions>
+         <accessRoles __type="array"/>
+         <creationDateTime __type="object" __classname="DateTime">2019-12-16T21:43:31+00:00</creationDateTime>
+         <lastModificationDateTime __type="object" __classname="DateTime">2019-12-17T18:11:08+00:00</lastModificationDateTime>
+         <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-17T18:11:08+00:00</lastPublicationDateTime>
+         <properties>
+          <text __type="string">&lt;h3&gt;Über uns&lt;/h3&gt;&lt;p&gt;Wir gestalten die Mobilität der Zukunft: APEX entwickelt innovative Lösungen für Automotive, Smart City und Smart Factory. Mit unseren innovativen Produkten und Dienstleistungen &lt;strong&gt;machen wir den Alltag intelligent, einfach, nachhaltig und sicher.&lt;/strong&gt;&lt;/p&gt;</text>
+         </properties>
+        </variant>
+       </node>
+      </node>
+      <node identifier="b32b4a37-c8e4-52cd-0bac-101ad57ee6be" nodeName="column1">
+       <variant sortingIndex="200" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Collection.Content.Column" version="2" removed="" hidden="" hiddenInIndex="">
+        <dimensions>
+         <language>en</language>
+        </dimensions>
+        <accessRoles __type="array"/>
+        <creationDateTime __type="object" __classname="DateTime">2019-12-15T20:56:09+00:00</creationDateTime>
+        <lastModificationDateTime __type="object" __classname="DateTime">2019-12-15T20:57:10+00:00</lastModificationDateTime>
+        <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-15T20:57:10+00:00</lastPublicationDateTime>
+        <properties/>
+       </variant>
+       <node identifier="8f955b93-3076-4c99-a3bb-9aee4c9450c1" nodeName="node-6myfk7ed5qbla">
+        <variant sortingIndex="300" workspace="live" nodeType="Neos.NodeTypes.Html:Html" version="4" removed="" hidden="" hiddenInIndex="">
+         <dimensions>
+          <language>en</language>
+         </dimensions>
+         <accessRoles __type="array"/>
+         <creationDateTime __type="object" __classname="DateTime">2019-12-15T21:07:56+00:00</creationDateTime>
+         <lastModificationDateTime __type="object" __classname="DateTime">2019-12-15T21:12:52+00:00</lastModificationDateTime>
+         <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-15T21:12:52+00:00</lastPublicationDateTime>
+         <properties>
+          <source __type="string">&lt;div class=&quot;responsiveContainer&quot;&gt;
+  &lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1756.493625056991!2d11.565465535035804!3d48.19329540203487!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479e76992ee443c5%3A0x13449dd50ccdc9a8!2sApex%20Engineering%20GmbH!5e1!3m2!1sde!2sde!4v1576444317420!5m2!1sde!2sde&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;</source>
+         </properties>
+        </variant>
+       </node>
+       <node identifier="fd42c689-b0eb-4dce-94e8-4e1dd150a791" nodeName="node-y6k1rq4nu0p3t">
+        <variant sortingIndex="150" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Content.Headline" version="13" removed="" hidden="" hiddenInIndex="">
+         <dimensions>
+          <language>en</language>
+         </dimensions>
+         <accessRoles __type="array"/>
+         <creationDateTime __type="object" __classname="DateTime">2019-12-17T17:56:45+00:00</creationDateTime>
+         <lastModificationDateTime __type="object" __classname="DateTime">2019-12-17T18:10:53+00:00</lastModificationDateTime>
+         <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-17T18:10:53+00:00</lastPublicationDateTime>
+         <properties>
+          <title __type="string">&lt;h3&gt;::fas fa-map-marked-alt:: Unser Standort&lt;/h3&gt;</title>
+         </properties>
+        </variant>
+       </node>
+      </node>
+     </node>
+    </node>
+    <node identifier="3977d0ba-81fe-e66d-1078-c9a5bb1e3fd5" nodeName="main">
      <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="1" removed="" hidden="" hiddenInIndex="">
       <dimensions/>
       <accessRoles __type="array"/>
-      <creationDateTime __type="object" __classname="DateTime">2018-06-26T23:20:17+02:00</creationDateTime>
-      <lastModificationDateTime __type="object" __classname="DateTime">2018-06-26T23:20:17+02:00</lastModificationDateTime>
+      <creationDateTime __type="object" __classname="DateTime">2018-06-26T23:20:17+00:00</creationDateTime>
+      <lastModificationDateTime __type="object" __classname="DateTime">2018-06-26T23:20:17+00:00</lastModificationDateTime>
       <properties/>
      </variant>
+     <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="2" removed="" hidden="" hiddenInIndex="">
+      <dimensions>
+       <language>en</language>
+      </dimensions>
+      <accessRoles __type="array"/>
+      <creationDateTime __type="object" __classname="DateTime">2019-10-18T12:33:06+00:00</creationDateTime>
+      <lastModificationDateTime __type="object" __classname="DateTime">2019-10-18T12:40:08+00:00</lastModificationDateTime>
+      <lastPublicationDateTime __type="object" __classname="DateTime">2019-10-18T12:40:08+00:00</lastPublicationDateTime>
+      <properties/>
+     </variant>
+     <node identifier="bf45915f-958d-4741-84d3-c2947034fe84" nodeName="node-ce5x7ecn0b87k">
+      <variant sortingIndex="100" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Content.Container" version="6" removed="" hidden="" hiddenInIndex="">
+       <dimensions>
+        <language>en</language>
+       </dimensions>
+       <accessRoles __type="array"/>
+       <creationDateTime __type="object" __classname="DateTime">2019-11-03T21:44:41+00:00</creationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:36:37+00:00</lastModificationDateTime>
+       <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:36:37+00:00</lastPublicationDateTime>
+       <properties>
+        <backgroundColor __type="string"></backgroundColor>
+        <backgroundSize __type="string">auto</backgroundSize>
+        <backgroundPosition __type="string">center center</backgroundPosition>
+        <padding __type="boolean"></padding>
+        <fluid __type="boolean"></fluid>
+        <textWhite __type="boolean"></textWhite>
+        <parallax __type="boolean"></parallax>
+        <spacing __type="string">my-5</spacing>
+       </properties>
+      </variant>
+      <node identifier="36af0624-be17-a707-e0a8-43ad9e9e9d61" nodeName="contentitems">
+       <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="2" removed="" hidden="" hiddenInIndex="">
+        <dimensions>
+         <language>en</language>
+        </dimensions>
+        <accessRoles __type="array"/>
+        <creationDateTime __type="object" __classname="DateTime">2019-11-03T21:44:41+00:00</creationDateTime>
+        <lastModificationDateTime __type="object" __classname="DateTime">2019-11-03T21:45:09+00:00</lastModificationDateTime>
+        <lastPublicationDateTime __type="object" __classname="DateTime">2019-11-03T21:45:09+00:00</lastPublicationDateTime>
+        <properties/>
+       </variant>
+       <node identifier="87e53056-3a8b-44e1-b812-759060939f88" nodeName="node-5onxw9k3v3g63">
+        <variant sortingIndex="200" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Content.Columns.Two" version="2" removed="" hidden="" hiddenInIndex="">
+         <dimensions>
+          <language>en</language>
+         </dimensions>
+         <accessRoles __type="array"/>
+         <creationDateTime __type="object" __classname="DateTime">2019-12-08T17:37:10+00:00</creationDateTime>
+         <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:39:26+00:00</lastModificationDateTime>
+         <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:39:25+00:00</lastPublicationDateTime>
+         <properties>
+          <breakpoints __type="string">md</breakpoints>
+         </properties>
+        </variant>
+        <node identifier="96fbdb24-6649-ca7b-34c0-af5aab1defab" nodeName="column0">
+         <variant sortingIndex="100" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Collection.Content.Column" version="2" removed="" hidden="" hiddenInIndex="">
+          <dimensions>
+           <language>en</language>
+          </dimensions>
+          <accessRoles __type="array"/>
+          <creationDateTime __type="object" __classname="DateTime">2019-12-08T17:37:10+00:00</creationDateTime>
+          <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:39:26+00:00</lastModificationDateTime>
+          <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:39:25+00:00</lastPublicationDateTime>
+          <properties/>
+         </variant>
+         <node identifier="6a1d0976-4967-47a7-81b1-3112f77e31ae" nodeName="node-n7yuhoz20fyo4">
+          <variant sortingIndex="100" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Content.Text" version="6" removed="" hidden="" hiddenInIndex="">
+           <dimensions>
+            <language>en</language>
+           </dimensions>
+           <accessRoles __type="array"/>
+           <creationDateTime __type="object" __classname="DateTime">2019-12-08T17:38:08+00:00</creationDateTime>
+           <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:46:51+00:00</lastModificationDateTime>
+           <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:46:51+00:00</lastPublicationDateTime>
+           <properties>
+            <text __type="string">&lt;p&gt;Ein gutes Team entsteht durch die Kombination persönlicher Wertschätzung mit anspruchsvoller Entwicklung. Multiplizieren wir das mit unserm Wissen und dem Spaß an der Arbeit, erzielen wir als Ergebnis unseren unschlagbaren Erfolg.&lt;/p&gt;</text>
+           </properties>
+          </variant>
+         </node>
+        </node>
+        <node identifier="95b80eb8-9836-9dd2-fcc5-7aaeec7f7173" nodeName="column1">
+         <variant sortingIndex="200" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Collection.Content.Column" version="2" removed="" hidden="" hiddenInIndex="">
+          <dimensions>
+           <language>en</language>
+          </dimensions>
+          <accessRoles __type="array"/>
+          <creationDateTime __type="object" __classname="DateTime">2019-12-08T17:37:10+00:00</creationDateTime>
+          <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:39:26+00:00</lastModificationDateTime>
+          <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:39:25+00:00</lastPublicationDateTime>
+          <properties/>
+         </variant>
+         <node identifier="46953723-c660-49c5-b065-f5a85b9ad3cb" nodeName="node-wfa78l9npuks5">
+          <variant sortingIndex="100" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Content.ResponsiveImage" version="4" removed="" hidden="" hiddenInIndex="">
+           <dimensions>
+            <language>en</language>
+           </dimensions>
+           <accessRoles __type="array"/>
+           <creationDateTime __type="object" __classname="DateTime">2019-12-08T17:37:23+00:00</creationDateTime>
+           <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:46:51+00:00</lastModificationDateTime>
+           <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:46:51+00:00</lastPublicationDateTime>
+           <properties>
+            <width __type="string"></width>
+            <height __type="integer">200</height>
+            <image __type="object" __identifier="dbc4a2ee-9b4a-45a6-9757-3f3748012241" __classname="Neos\Media\Domain\Model\Image" __encoding="json">{&quot;__identity&quot;:&quot;dbc4a2ee-9b4a-45a6-9757-3f3748012241&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;contentbild_team.png&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/png&quot;,&quot;sha1&quot;:&quot;49c805311dcc486e493a52ea5d7898286f321b3a&quot;,&quot;hash&quot;:&quot;49c805311dcc486e493a52ea5d7898286f321b3a&quot;,&quot;__identity&quot;:&quot;5cefe427-3b18-424e-8243-a05edc6148c6&quot;}}</image>
+            <styleOptions __type="array">
+             <entry0 __type="string">img-fluid</entry0>
+             <entry1 __type="string">rounded</entry1>
+            </styleOptions>
+           </properties>
+          </variant>
+         </node>
+        </node>
+       </node>
+       <node identifier="4978cabb-6fb5-40b2-80b0-1ccc13201787" nodeName="node-ll41tfaypx8i9">
+        <variant sortingIndex="150" workspace="live" nodeType="GeosphereWeb.ApexEngineering:Content.Headline" version="5" removed="" hidden="" hiddenInIndex="">
+         <dimensions>
+          <language>en</language>
+         </dimensions>
+         <accessRoles __type="array"/>
+         <creationDateTime __type="object" __classname="DateTime">2019-12-08T17:45:05+00:00</creationDateTime>
+         <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:46:51+00:00</lastModificationDateTime>
+         <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:46:51+00:00</lastPublicationDateTime>
+         <properties>
+          <title __type="string">&lt;h3&gt;Team&lt;/h3&gt;</title>
+         </properties>
+        </variant>
+       </node>
+       <node identifier="a37d19f4-2681-486e-acf3-2fc03644cf84" nodeName="node-o99q0jis3n7m1">
+        <variant sortingIndex="50" workspace="live" nodeType="GeosphereWeb.ApexEngineering:Content.Headline" version="7" removed="" hidden="" hiddenInIndex="">
+         <dimensions>
+          <language>en</language>
+         </dimensions>
+         <accessRoles __type="array"/>
+         <creationDateTime __type="object" __classname="DateTime">2019-12-08T17:43:40+00:00</creationDateTime>
+         <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:44:23+00:00</lastModificationDateTime>
+         <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:44:23+00:00</lastPublicationDateTime>
+         <properties>
+          <title __type="string">&lt;h3&gt;Wir über uns&lt;/h3&gt;</title>
+         </properties>
+        </variant>
+       </node>
+       <node identifier="03af486a-0481-4f7c-8051-3c18debb63f5" nodeName="node-pcs7luuub3392">
+        <variant sortingIndex="100" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Content.Columns.Two" version="7" removed="" hidden="" hiddenInIndex="">
+         <dimensions>
+          <language>en</language>
+         </dimensions>
+         <accessRoles __type="array"/>
+         <creationDateTime __type="object" __classname="DateTime">2019-12-08T17:17:34+00:00</creationDateTime>
+         <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:28:02+00:00</lastModificationDateTime>
+         <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:28:02+00:00</lastPublicationDateTime>
+         <properties>
+          <breakpoints __type="string">md</breakpoints>
+         </properties>
+        </variant>
+        <node identifier="cf863ee8-7751-98f5-3561-d1aa47e90378" nodeName="column0">
+         <variant sortingIndex="100" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Collection.Content.Column" version="4" removed="" hidden="" hiddenInIndex="">
+          <dimensions>
+           <language>en</language>
+          </dimensions>
+          <accessRoles __type="array"/>
+          <creationDateTime __type="object" __classname="DateTime">2019-12-08T17:17:34+00:00</creationDateTime>
+          <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:28:02+00:00</lastModificationDateTime>
+          <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:28:02+00:00</lastPublicationDateTime>
+          <properties/>
+         </variant>
+         <node identifier="89a20b24-c367-4248-91cb-29f8dac19790" nodeName="node-5y2f4wu7gjr8z">
+          <variant sortingIndex="200" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Content.ResponsiveImage" version="7" removed="" hidden="" hiddenInIndex="">
+           <dimensions>
+            <language>en</language>
+           </dimensions>
+           <accessRoles __type="array"/>
+           <creationDateTime __type="object" __classname="DateTime">2019-12-08T17:33:46+00:00</creationDateTime>
+           <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:44:23+00:00</lastModificationDateTime>
+           <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:44:23+00:00</lastPublicationDateTime>
+           <properties>
+            <width __type="string"></width>
+            <height __type="integer">200</height>
+            <image __type="object" __identifier="d4af8191-787c-48ea-8eca-9838686ae80c" __classname="Neos\Media\Domain\Model\Image" __encoding="json">{&quot;__identity&quot;:&quot;d4af8191-787c-48ea-8eca-9838686ae80c&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;contentbild_unternehmen.png&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/png&quot;,&quot;sha1&quot;:&quot;0818b9da2a3f849c2738aaaaa4fd2b6eeeac7657&quot;,&quot;hash&quot;:&quot;0818b9da2a3f849c2738aaaaa4fd2b6eeeac7657&quot;,&quot;__identity&quot;:&quot;8e67db7c-d79b-4e38-bf88-63a9c2a2cb3a&quot;}}</image>
+            <styleOptions __type="array">
+             <entry0 __type="string">img-fluid</entry0>
+             <entry1 __type="string">rounded</entry1>
+            </styleOptions>
+           </properties>
+          </variant>
+         </node>
+        </node>
+        <node identifier="404e758d-ff66-dbd1-cb22-af764499d267" nodeName="column1">
+         <variant sortingIndex="200" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Collection.Content.Column" version="4" removed="" hidden="" hiddenInIndex="">
+          <dimensions>
+           <language>en</language>
+          </dimensions>
+          <accessRoles __type="array"/>
+          <creationDateTime __type="object" __classname="DateTime">2019-12-08T17:17:35+00:00</creationDateTime>
+          <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:28:02+00:00</lastModificationDateTime>
+          <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:28:02+00:00</lastPublicationDateTime>
+          <properties/>
+         </variant>
+         <node identifier="b06b15ca-90b8-4895-929c-b7c5d0618555" nodeName="node-d1a5gqkavw4f2">
+          <variant sortingIndex="100" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Content.Text" version="9" removed="" hidden="" hiddenInIndex="">
+           <dimensions>
+            <language>en</language>
+           </dimensions>
+           <accessRoles __type="array"/>
+           <creationDateTime __type="object" __classname="DateTime">2019-12-08T17:34:57+00:00</creationDateTime>
+           <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:44:23+00:00</lastModificationDateTime>
+           <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:44:23+00:00</lastPublicationDateTime>
+           <properties>
+            <text __type="string">&lt;p&gt;Entwicklung und Konstruktion fordern Engagement, Erfahrung und Leidenschaft. Die Firma APEX Engineering GmbH sieht die Lösung in der Erstellung von kompletten Systemen. Nur ein stimmiges Gesamtbild, im einzelnen perfektioniert, ermöglicht optimale Ergebnisse.&lt;/p&gt;</text>
+           </properties>
+          </variant>
+         </node>
+        </node>
+       </node>
+       <node identifier="b4c6dc1d-d481-40ab-8db3-8a330e7232dd" nodeName="node-r0yuz4scn4eq5">
+        <variant sortingIndex="300" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Content.Columns.Two" version="2" removed="" hidden="" hiddenInIndex="">
+         <dimensions>
+          <language>en</language>
+         </dimensions>
+         <accessRoles __type="array"/>
+         <creationDateTime __type="object" __classname="DateTime">2019-12-08T17:40:48+00:00</creationDateTime>
+         <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:44:23+00:00</lastModificationDateTime>
+         <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:44:23+00:00</lastPublicationDateTime>
+         <properties>
+          <breakpoints __type="string">md</breakpoints>
+         </properties>
+        </variant>
+        <node identifier="0b0f60c2-cc63-c80b-cf4a-9bfa23778a8f" nodeName="column0">
+         <variant sortingIndex="100" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Collection.Content.Column" version="2" removed="" hidden="" hiddenInIndex="">
+          <dimensions>
+           <language>en</language>
+          </dimensions>
+          <accessRoles __type="array"/>
+          <creationDateTime __type="object" __classname="DateTime">2019-12-08T17:40:48+00:00</creationDateTime>
+          <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:44:23+00:00</lastModificationDateTime>
+          <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:44:23+00:00</lastPublicationDateTime>
+          <properties/>
+         </variant>
+         <node identifier="7a3010bb-b0bc-45de-8b46-d8c1701debe3" nodeName="node-o4im6ts9su5v3">
+          <variant sortingIndex="100" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Content.ResponsiveImage" version="8" removed="" hidden="" hiddenInIndex="">
+           <dimensions>
+            <language>en</language>
+           </dimensions>
+           <accessRoles __type="array"/>
+           <creationDateTime __type="object" __classname="DateTime">2019-12-08T17:41:36+00:00</creationDateTime>
+           <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:44:23+00:00</lastModificationDateTime>
+           <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:44:23+00:00</lastPublicationDateTime>
+           <properties>
+            <width __type="string"></width>
+            <height __type="integer">200</height>
+            <image __type="object" __identifier="5e9918eb-2081-4c47-bbf8-04357aa28e9d" __classname="Neos\Media\Domain\Model\Image" __encoding="json">{&quot;__identity&quot;:&quot;5e9918eb-2081-4c47-bbf8-04357aa28e9d&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;contentbild_kompetenzen.png&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/png&quot;,&quot;sha1&quot;:&quot;740b59842201c2891e30ba2de3ae18838034290c&quot;,&quot;hash&quot;:&quot;740b59842201c2891e30ba2de3ae18838034290c&quot;,&quot;__identity&quot;:&quot;861ea6e2-f684-485f-9628-564027b297e4&quot;}}</image>
+            <styleOptions __type="array">
+             <entry0 __type="string">img-fluid</entry0>
+             <entry1 __type="string">rounded</entry1>
+            </styleOptions>
+           </properties>
+          </variant>
+         </node>
+        </node>
+        <node identifier="9442c8bd-f413-0276-687f-220837bb1d2d" nodeName="column1">
+         <variant sortingIndex="200" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Collection.Content.Column" version="2" removed="" hidden="" hiddenInIndex="">
+          <dimensions>
+           <language>en</language>
+          </dimensions>
+          <accessRoles __type="array"/>
+          <creationDateTime __type="object" __classname="DateTime">2019-12-08T17:40:48+00:00</creationDateTime>
+          <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:44:23+00:00</lastModificationDateTime>
+          <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:44:23+00:00</lastPublicationDateTime>
+          <properties/>
+         </variant>
+         <node identifier="03cb2292-cd61-47fa-826e-5d6c55d9ca51" nodeName="node-d5udhvm0mfvzb">
+          <variant sortingIndex="100" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Content.Text" version="9" removed="" hidden="" hiddenInIndex="">
+           <dimensions>
+            <language>en</language>
+           </dimensions>
+           <accessRoles __type="array"/>
+           <creationDateTime __type="object" __classname="DateTime">2019-12-08T17:41:03+00:00</creationDateTime>
+           <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:46:51+00:00</lastModificationDateTime>
+           <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:46:51+00:00</lastPublicationDateTime>
+           <properties>
+            <text __type="string">&lt;p&gt;Unsere Leistungen beziehen sich auf die Gesamtumfänge der Entwicklung, Konstruktion und dem Design sowohl im 2D als auch im 3D-Bereich. Wir unterstützen unsere Kunden in der virtuellen Produktentwicklung vom Entwurf bis hin zur Serienreife. Die technische Optimierung in Zusammenfassung mit der völligen Zufriedenheit des Kunden ist unser Tagesgeschäft.&lt;/p&gt;</text>
+           </properties>
+          </variant>
+         </node>
+        </node>
+       </node>
+       <node identifier="34ab9b62-7b66-4f98-8438-f55b5599e0d8" nodeName="node-scf1rreuumnrz">
+        <variant sortingIndex="250" workspace="live" nodeType="GeosphereWeb.ApexEngineering:Content.Headline" version="5" removed="" hidden="" hiddenInIndex="">
+         <dimensions>
+          <language>en</language>
+         </dimensions>
+         <accessRoles __type="array"/>
+         <creationDateTime __type="object" __classname="DateTime">2019-12-08T17:46:20+00:00</creationDateTime>
+         <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:46:51+00:00</lastModificationDateTime>
+         <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:46:51+00:00</lastPublicationDateTime>
+         <properties>
+          <title __type="string">&lt;h3&gt;Kompetenzen&lt;/h3&gt;</title>
+         </properties>
+        </variant>
+       </node>
+      </node>
+     </node>
+    </node>
+    <node identifier="dfeb1b8a-eb56-4441-be82-e8d2330655d0" nodeName="node-2dmswyvftkz3j">
+     <variant sortingIndex="700" workspace="live" nodeType="Neos.Neos:Shortcut" version="4" removed="" hidden="" hiddenInIndex="">
+      <dimensions>
+       <language>en</language>
+      </dimensions>
+      <accessRoles __type="array"/>
+      <creationDateTime __type="object" __classname="DateTime">2019-12-07T19:09:35+00:00</creationDateTime>
+      <lastModificationDateTime __type="object" __classname="DateTime">2019-12-10T20:21:30+00:00</lastModificationDateTime>
+      <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:03:43+00:00</lastPublicationDateTime>
+      <properties>
+       <uriPathSegment __type="string">unternehmen</uriPathSegment>
+       <title __type="string">Unternehmen</title>
+       <targetMode __type="string">firstChildNode</targetMode>
+       <metaRobotsNoindex __type="boolean">1</metaRobotsNoindex>
+      </properties>
+     </variant>
+     <node identifier="95d2bc99-6f39-4455-8f44-5396661bd550" nodeName="node-2y1f32b65aiml">
+      <variant sortingIndex="1150" workspace="live" nodeType="GeosphereWeb.ApexEngineering:Document.Page" version="2" removed="" hidden="" hiddenInIndex="">
+       <dimensions>
+        <language>en</language>
+       </dimensions>
+       <accessRoles __type="array"/>
+       <creationDateTime __type="object" __classname="DateTime">2019-12-07T19:12:24+00:00</creationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2019-12-07T19:16:28+00:00</lastModificationDateTime>
+       <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-07T19:16:27+00:00</lastPublicationDateTime>
+       <properties>
+        <uriPathSegment __type="string">news-artikel</uriPathSegment>
+        <title __type="string">News &amp; Artikel</title>
+       </properties>
+      </variant>
+      <node identifier="74e0f806-bef8-64b8-075d-345ffcc4195c" nodeName="main">
+       <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="2" removed="" hidden="" hiddenInIndex="">
+        <dimensions>
+         <language>en</language>
+        </dimensions>
+        <accessRoles __type="array"/>
+        <creationDateTime __type="object" __classname="DateTime">2019-12-07T19:12:24+00:00</creationDateTime>
+        <lastModificationDateTime __type="object" __classname="DateTime">2019-12-07T19:16:28+00:00</lastModificationDateTime>
+        <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-07T19:16:27+00:00</lastPublicationDateTime>
+        <properties/>
+       </variant>
+      </node>
+     </node>
+     <node identifier="44d5ab91-0f09-4b83-8831-9927a2037fb9" nodeName="node-cdrmng6y32gpg">
+      <variant sortingIndex="800" workspace="live" nodeType="GeosphereWeb.ApexEngineering:Document.Page" version="3" removed="" hidden="" hiddenInIndex="">
+       <dimensions>
+        <language>en</language>
+       </dimensions>
+       <accessRoles __type="array"/>
+       <creationDateTime __type="object" __classname="DateTime">2019-12-08T17:50:35+00:00</creationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:51:52+00:00</lastModificationDateTime>
+       <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:51:52+00:00</lastPublicationDateTime>
+       <properties>
+        <uriPathSegment __type="string">entstehungsgeschichte</uriPathSegment>
+        <title __type="string">Entstehungsgeschichte</title>
+       </properties>
+      </variant>
+      <node identifier="38a6cd8c-a6e0-d24d-07d4-d35b2a475be5" nodeName="main">
+       <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="2" removed="" hidden="" hiddenInIndex="">
+        <dimensions>
+         <language>en</language>
+        </dimensions>
+        <accessRoles __type="array"/>
+        <creationDateTime __type="object" __classname="DateTime">2019-12-08T17:50:35+00:00</creationDateTime>
+        <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:51:52+00:00</lastModificationDateTime>
+        <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:51:52+00:00</lastPublicationDateTime>
+        <properties/>
+       </variant>
+       <node identifier="b2f9a505-c816-4474-b995-613c2548fb82" nodeName="node-4d6o9l2gj8o9t">
+        <variant sortingIndex="100" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Content.Container" version="11" removed="" hidden="" hiddenInIndex="">
+         <dimensions>
+          <language>en</language>
+         </dimensions>
+         <accessRoles __type="array"/>
+         <creationDateTime __type="object" __classname="DateTime">2019-12-08T17:51:02+00:00</creationDateTime>
+         <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T20:54:16+00:00</lastModificationDateTime>
+         <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T20:54:16+00:00</lastPublicationDateTime>
+         <properties>
+          <backgroundColor __type="string"></backgroundColor>
+          <backgroundSize __type="string">cover</backgroundSize>
+          <backgroundPosition __type="string">center center</backgroundPosition>
+          <padding __type="boolean"></padding>
+          <fluid __type="boolean"></fluid>
+          <textWhite __type="boolean"></textWhite>
+          <parallax __type="boolean">1</parallax>
+          <spacing __type="string">py-5</spacing>
+          <backgroundImage __type="object" __identifier="848592b3-0ea9-45ac-833b-3ae902d7c1e1" __classname="Neos\Media\Domain\Model\ImageVariant" __encoding="json">{&quot;__identity&quot;:&quot;848592b3-0ea9-45ac-833b-3ae902d7c1e1&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\ImageVariant&quot;,&quot;originalAsset&quot;:{&quot;__identity&quot;:&quot;49a6162d-121e-4ec4-9034-4e8412cc1079&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;Fotolia_56690050_S.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;8dca210bad2618471f77e09bde1bb6b4eb4ff6f8&quot;,&quot;hash&quot;:&quot;8dca210bad2618471f77e09bde1bb6b4eb4ff6f8&quot;,&quot;__identity&quot;:&quot;be3135a0-5172-4443-945f-3cf867ef0617&quot;}},&quot;adjustments&quot;:[{&quot;aspectRatio&quot;:null,&quot;height&quot;:613,&quot;position&quot;:10,&quot;width&quot;:613,&quot;x&quot;:0,&quot;y&quot;:0,&quot;__identity&quot;:&quot;1aff1452-939e-446e-8938-d628e01794c7&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Adjustment\\CropImageAdjustment&quot;}]}</backgroundImage>
+         </properties>
+        </variant>
+        <node identifier="3f879b13-2df8-d989-c6b6-9a9fdb4fc734" nodeName="contentitems">
+         <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="2" removed="" hidden="" hiddenInIndex="">
+          <dimensions>
+           <language>en</language>
+          </dimensions>
+          <accessRoles __type="array"/>
+          <creationDateTime __type="object" __classname="DateTime">2019-12-08T17:51:02+00:00</creationDateTime>
+          <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:51:52+00:00</lastModificationDateTime>
+          <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:51:52+00:00</lastPublicationDateTime>
+          <properties/>
+         </variant>
+         <node identifier="a08f1e3b-93cc-4801-993d-a4e173e92aa7" nodeName="node-aw6a512o0xqm4">
+          <variant sortingIndex="150" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Content.Columns.Two" version="3" removed="" hidden="" hiddenInIndex="">
+           <dimensions>
+            <language>en</language>
+           </dimensions>
+           <accessRoles __type="array"/>
+           <creationDateTime __type="object" __classname="DateTime">2019-12-08T17:54:35+00:00</creationDateTime>
+           <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:54:51+00:00</lastModificationDateTime>
+           <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:54:51+00:00</lastPublicationDateTime>
+           <properties>
+            <breakpoints __type="string">md</breakpoints>
+           </properties>
+          </variant>
+          <node identifier="0aabfbe5-e2bb-bcdb-49dd-a65d4c112430" nodeName="column0">
+           <variant sortingIndex="100" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Collection.Content.Column" version="2" removed="" hidden="" hiddenInIndex="">
+            <dimensions>
+             <language>en</language>
+            </dimensions>
+            <accessRoles __type="array"/>
+            <creationDateTime __type="object" __classname="DateTime">2019-12-08T17:54:35+00:00</creationDateTime>
+            <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:54:51+00:00</lastModificationDateTime>
+            <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:54:51+00:00</lastPublicationDateTime>
+            <properties/>
+           </variant>
+           <node identifier="1592c57a-6624-4b00-ae32-4d7ff9ec141e" nodeName="node-yc8gweveafr9t">
+            <variant sortingIndex="100" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Content.Text" version="3" removed="" hidden="" hiddenInIndex="">
+             <dimensions>
+              <language>en</language>
+             </dimensions>
+             <accessRoles __type="array"/>
+             <creationDateTime __type="object" __classname="DateTime">2019-12-08T17:55:27+00:00</creationDateTime>
+             <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:56:38+00:00</lastModificationDateTime>
+             <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:56:38+00:00</lastPublicationDateTime>
+             <properties>
+              <text __type="string">&lt;h3&gt;APEX ist der &quot;Center-of-Competence-Dienstleister&quot; für Ihre Entwicklung&lt;/h3&gt;&lt;p&gt;Entwicklung, Elektronik/Elektrik und Design fordern Engagement, Erfahrung und Leidenschaft. Die Firma APEX&amp;nbsp;sieht die Lösung in der Erstellung von kompletten Systemen. Nur ein stimmiges Gesamtbild, im Einzelnen perfektioniert, ermöglicht optimale Ergebnisse.&lt;/p&gt;&lt;p&gt;Unser Aufgabenbereich ist die Kabelbaumentwicklung im physischen Bordnetz. Unser Schwerpunkt liegt im Automotive- und Nutzfahrzeugbereich. Als Partner und Dienstleister haben wir uns eine vertrauensvolle und solide Basis mit den Premiumherstellern der Automobilbranche erarbeitet. Die Voraussetzung hierfür ist ein auf sich abgestimmtes und kompetentes Team mit der Leidenschaft für Dynamik, Professionalität, Flexibilität und Kreativität. Unser Enthusiasmus und unsere Erfahrung, gepaart mit dem Anspruch auf höchste Qualität, stellt die Basis für erfolgreiche und kundenorientierte Projekte.&lt;/p&gt;</text>
+             </properties>
+            </variant>
+           </node>
+          </node>
+          <node identifier="87513cb5-7680-1e21-c4db-e124244227c6" nodeName="column1">
+           <variant sortingIndex="200" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Collection.Content.Column" version="2" removed="" hidden="" hiddenInIndex="">
+            <dimensions>
+             <language>en</language>
+            </dimensions>
+            <accessRoles __type="array"/>
+            <creationDateTime __type="object" __classname="DateTime">2019-12-08T17:54:35+00:00</creationDateTime>
+            <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:54:51+00:00</lastModificationDateTime>
+            <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:54:51+00:00</lastPublicationDateTime>
+            <properties/>
+           </variant>
+           <node identifier="997cf267-7ef0-446d-b120-71b47c2bdff1" nodeName="node-fk2v0l389w5f5">
+            <variant sortingIndex="100" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Content.Text" version="4" removed="" hidden="" hiddenInIndex="">
+             <dimensions>
+              <language>en</language>
+             </dimensions>
+             <accessRoles __type="array"/>
+             <creationDateTime __type="object" __classname="DateTime">2019-12-08T17:56:49+00:00</creationDateTime>
+             <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:58:46+00:00</lastModificationDateTime>
+             <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:58:45+00:00</lastPublicationDateTime>
+             <properties>
+              <text __type="string">&lt;p&gt;&lt;strong&gt;1999&lt;/strong&gt;&lt;br&gt;Gründung der Engineering Solutions GbR mit dem Schwerpunkt Produktentwicklung - zwei Mitarbeiter&lt;/p&gt;&lt;p&gt;&lt;strong&gt;2002&lt;/strong&gt;&lt;br&gt;Gründung der Engineering Solutions GmbH - fünf Mitarbeiter&lt;/p&gt;&lt;p&gt;&lt;strong&gt;2006&lt;/strong&gt;&lt;br&gt;Erstmalige Schaltplan- und Systemplanbeauftragung - zehn Mitarbeiter&lt;/p&gt;&lt;p&gt;&lt;strong&gt;2010&lt;/strong&gt;&lt;br&gt;Gründung der APEX Engineering GmbH als eigenen Zweig für Elektrotechnik, Firmensitz in Karlsfeld und München&lt;/p&gt;&lt;p&gt;&lt;strong&gt;2014&lt;/strong&gt;&lt;br&gt;Übernahme der Engineering Solutions GmbH durch die APEX Engineering GmbH Apex Engineering GmbH Firmensitz in München und Feldgeding - dreißig Mitarbeiter&lt;/p&gt;&lt;p&gt;&lt;strong&gt;2015&lt;/strong&gt;&lt;br&gt;Neustrukturierung durch Trennung der Arbeitsbereiche nach Standorten. Aus der APEX Engineering GmbH in Feldgeding wurde somit die APEX Solutions GmbH&lt;/p&gt;</text>
+             </properties>
+            </variant>
+           </node>
+          </node>
+         </node>
+         <node identifier="7020b987-83a5-48b5-a1ba-a704aa912491" nodeName="node-b3ich7d9enuax">
+          <variant sortingIndex="50" workspace="live" nodeType="GeosphereWeb.ApexEngineering:Content.Headline" version="11" removed="" hidden="" hiddenInIndex="">
+           <dimensions>
+            <language>en</language>
+           </dimensions>
+           <accessRoles __type="array"/>
+           <creationDateTime __type="object" __classname="DateTime">2019-12-08T17:53:03+00:00</creationDateTime>
+           <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T18:06:43+00:00</lastModificationDateTime>
+           <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T18:06:43+00:00</lastPublicationDateTime>
+           <properties>
+            <title __type="string">&lt;h2&gt;Unternehmungsgründung und Entstehungsgeschichte&lt;/h2&gt;</title>
+           </properties>
+          </variant>
+         </node>
+        </node>
+       </node>
+      </node>
+     </node>
+     <node identifier="9862cf75-60d2-4c7c-850f-5675db9af0c0" nodeName="node-ejr84yzv3k1xd">
+      <variant sortingIndex="850" workspace="live" nodeType="GeosphereWeb.ApexEngineering:Document.Page" version="6" removed="" hidden="" hiddenInIndex="">
+       <dimensions>
+        <language>en</language>
+       </dimensions>
+       <accessRoles __type="array"/>
+       <creationDateTime __type="object" __classname="DateTime">2019-12-07T19:11:20+00:00</creationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2019-12-13T17:18:27+00:00</lastModificationDateTime>
+       <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T21:34:06+00:00</lastPublicationDateTime>
+       <properties>
+        <uriPathSegment __type="string">uber-uns</uriPathSegment>
+        <title __type="string">Über uns</title>
+       </properties>
+      </variant>
+      <node identifier="52c4ade5-7982-9572-b390-3992634c8cdf" nodeName="main">
+       <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="2" removed="" hidden="" hiddenInIndex="">
+        <dimensions>
+         <language>en</language>
+        </dimensions>
+        <accessRoles __type="array"/>
+        <creationDateTime __type="object" __classname="DateTime">2019-12-07T19:11:20+00:00</creationDateTime>
+        <lastModificationDateTime __type="object" __classname="DateTime">2019-12-07T19:16:28+00:00</lastModificationDateTime>
+        <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-07T19:16:27+00:00</lastPublicationDateTime>
+        <properties/>
+       </variant>
+       <node identifier="3e7540c2-8670-40bb-8f79-f287160fdc33" nodeName="node-p9smnxzuagkey">
+        <variant sortingIndex="100" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Content.Container" version="4" removed="" hidden="" hiddenInIndex="">
+         <dimensions>
+          <language>en</language>
+         </dimensions>
+         <accessRoles __type="array"/>
+         <creationDateTime __type="object" __classname="DateTime">2019-12-08T20:25:33+00:00</creationDateTime>
+         <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T20:53:38+00:00</lastModificationDateTime>
+         <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T20:53:38+00:00</lastPublicationDateTime>
+         <properties>
+          <backgroundColor __type="string"></backgroundColor>
+          <backgroundSize __type="string">cover</backgroundSize>
+          <backgroundPosition __type="string">left bottom</backgroundPosition>
+          <padding __type="boolean">1</padding>
+          <fluid __type="boolean"></fluid>
+          <textWhite __type="boolean">1</textWhite>
+          <parallax __type="boolean"></parallax>
+          <spacing __type="string">py-5</spacing>
+          <backgroundImage __type="object" __identifier="3d156c51-64c7-4dbd-9651-161d431c15ec" __classname="Neos\Media\Domain\Model\Image" __encoding="json">{&quot;__identity&quot;:&quot;3d156c51-64c7-4dbd-9651-161d431c15ec&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;Fotolia_49510969_S.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;82b43b9e10171e0f7639e78f9bf428d77e3b8e12&quot;,&quot;hash&quot;:&quot;82b43b9e10171e0f7639e78f9bf428d77e3b8e12&quot;,&quot;__identity&quot;:&quot;4b08d787-3d27-4aba-9a87-4e9ad15da7ee&quot;}}</backgroundImage>
+         </properties>
+        </variant>
+        <node identifier="d3407030-1b26-b7b4-db51-ae8997d23c9b" nodeName="contentitems">
+         <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="2" removed="" hidden="" hiddenInIndex="">
+          <dimensions>
+           <language>en</language>
+          </dimensions>
+          <accessRoles __type="array"/>
+          <creationDateTime __type="object" __classname="DateTime">2019-12-08T20:25:33+00:00</creationDateTime>
+          <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T20:26:26+00:00</lastModificationDateTime>
+          <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T20:26:26+00:00</lastPublicationDateTime>
+          <properties/>
+         </variant>
+         <node identifier="46be5a1e-e668-45de-b804-867b7116e2e3" nodeName="node-8xhc042jacuuh">
+          <variant sortingIndex="300" workspace="live" nodeType="GeosphereWeb.ApexEngineering:Content.Headline" version="5" removed="" hidden="" hiddenInIndex="">
+           <dimensions>
+            <language>en</language>
+           </dimensions>
+           <accessRoles __type="array"/>
+           <creationDateTime __type="object" __classname="DateTime">2019-12-08T20:30:06+00:00</creationDateTime>
+           <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T20:33:47+00:00</lastModificationDateTime>
+           <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T20:33:47+00:00</lastPublicationDateTime>
+           <properties>
+            <title __type="string">&lt;h3&gt;DEN ANTRIEB EINES ERFOLGREICHEN UNTERNEHMENS BILDEN DIE MITARBEITER&lt;/h3&gt;</title>
+           </properties>
+          </variant>
+         </node>
+         <node identifier="2db0bd82-e831-4155-8277-2dcf857dec49" nodeName="node-vt1q3z5c0yx5z">
+          <variant sortingIndex="350" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Content.Columns.Two" version="2" removed="" hidden="" hiddenInIndex="">
+           <dimensions>
+            <language>en</language>
+           </dimensions>
+           <accessRoles __type="array"/>
+           <creationDateTime __type="object" __classname="DateTime">2019-12-08T20:29:37+00:00</creationDateTime>
+           <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T20:33:47+00:00</lastModificationDateTime>
+           <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T20:33:47+00:00</lastPublicationDateTime>
+           <properties>
+            <breakpoints __type="string">md</breakpoints>
+           </properties>
+          </variant>
+          <node identifier="e68196ec-507e-f8b0-572c-7b57d9b98988" nodeName="column0">
+           <variant sortingIndex="100" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Collection.Content.Column" version="2" removed="" hidden="" hiddenInIndex="">
+            <dimensions>
+             <language>en</language>
+            </dimensions>
+            <accessRoles __type="array"/>
+            <creationDateTime __type="object" __classname="DateTime">2019-12-08T20:29:37+00:00</creationDateTime>
+            <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T20:33:47+00:00</lastModificationDateTime>
+            <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T20:33:47+00:00</lastPublicationDateTime>
+            <properties/>
+           </variant>
+           <node identifier="742f15d1-32b1-4ec6-b3a0-961002b68241" nodeName="node-326qolf822lfk">
+            <variant sortingIndex="350" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Content.Text" version="8" removed="" hidden="" hiddenInIndex="">
+             <dimensions>
+              <language>en</language>
+             </dimensions>
+             <accessRoles __type="array"/>
+             <creationDateTime __type="object" __classname="DateTime">2019-12-08T20:26:07+00:00</creationDateTime>
+             <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T21:32:27+00:00</lastModificationDateTime>
+             <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T21:32:27+00:00</lastPublicationDateTime>
+             <properties>
+              <text __type="string">&lt;p&gt;Unsere Mitarbeiter bilden die Seele des Unternehmens und stellen einen essentiellen Teil von &lt;strong&gt;APEX &lt;/strong&gt;dar. Unser Team besteht aus fachlich kompetentem Personal, welches aufeinander abgestimmt ist, die Überzeugungen der Firma teilt, sich mit den Projekten identifiziert und bereit ist, sich Herausforderungen zu stellen, um diese optimal zu bewältigen.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Durch die individuelle Förderung eines jeden Mitarbeiters, den Einsatz in einem eingeschworenden Team und einem qualifiziertem Umfeld, ermöglichen wir es jedem Einzelnen sich zu entfalten und Höchstleistungen zu erbringen. Wir leisten unseren Beitrag zur Umsetzung von Visionen mit kreativen und kompetenten Mitarbeitern.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Neben der fachlichen Qualifikation steht für uns der individuelle Bezug zu unseren Angestellten ganz klar im Vordergrund. Wir investieren in unseren Antrieb und entwickeln uns zielstrebig und gemeinsam mit unserem engagierten Team weiter. Langfristige Beständigkeit jedes Einzelnen in seiner Tätigkeit an nur einem einzigen Projekt, erzeugt und stützt hier die geforderte Passion.&lt;/p&gt;</text>
+             </properties>
+            </variant>
+           </node>
+          </node>
+          <node identifier="7ebaf754-cc87-3e54-f0de-ee5332a1fc26" nodeName="column1">
+           <variant sortingIndex="200" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Collection.Content.Column" version="2" removed="" hidden="" hiddenInIndex="">
+            <dimensions>
+             <language>en</language>
+            </dimensions>
+            <accessRoles __type="array"/>
+            <creationDateTime __type="object" __classname="DateTime">2019-12-08T20:29:37+00:00</creationDateTime>
+            <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T20:33:47+00:00</lastModificationDateTime>
+            <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T20:33:47+00:00</lastPublicationDateTime>
+            <properties/>
+           </variant>
+           <node identifier="6fe6ed99-b9df-4a60-a849-39b2a76cc2c1" nodeName="node-6ivs6irqbmt29">
+            <variant sortingIndex="150" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Content.Text" version="5" removed="" hidden="" hiddenInIndex="">
+             <dimensions>
+              <language>en</language>
+             </dimensions>
+             <accessRoles __type="array"/>
+             <creationDateTime __type="object" __classname="DateTime">2019-12-08T20:37:14+00:00</creationDateTime>
+             <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T21:31:51+00:00</lastModificationDateTime>
+             <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T21:31:51+00:00</lastPublicationDateTime>
+             <properties>
+              <text __type="string">&lt;p&gt;&lt;i&gt;&lt;strong&gt;„Wenn Du ein Schiff bauen willst, dann trommle nicht Männer zusammen um Holz zu beschaffen, Aufgaben zu vergeben und die Arbeit einzuteilen, sondern lehre die Männer die Sehnsucht nach dem weiten, endlosen Meer.“&lt;/strong&gt;&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;-Antoine de Saint-Exupéry-&lt;/i&gt;&lt;/p&gt;</text>
+             </properties>
+            </variant>
+           </node>
+          </node>
+         </node>
+        </node>
+       </node>
+       <node identifier="1885a3f0-f203-445f-8794-cfd7b7364a6d" nodeName="node-x3wf9iq0q5o7t">
+        <variant sortingIndex="200" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Content.Container" version="5" removed="" hidden="" hiddenInIndex="">
+         <dimensions>
+          <language>en</language>
+         </dimensions>
+         <accessRoles __type="array"/>
+         <creationDateTime __type="object" __classname="DateTime">2019-12-08T20:41:27+00:00</creationDateTime>
+         <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T20:53:38+00:00</lastModificationDateTime>
+         <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T20:53:38+00:00</lastPublicationDateTime>
+         <properties>
+          <backgroundColor __type="string"></backgroundColor>
+          <backgroundSize __type="string">cover</backgroundSize>
+          <backgroundPosition __type="string">center center</backgroundPosition>
+          <padding __type="boolean">1</padding>
+          <fluid __type="boolean"></fluid>
+          <textWhite __type="boolean"></textWhite>
+          <parallax __type="boolean"></parallax>
+          <spacing __type="string">py-5</spacing>
+         </properties>
+        </variant>
+        <node identifier="102dd90c-cbab-7f4f-d618-a12432cf409a" nodeName="contentitems">
+         <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="2" removed="" hidden="" hiddenInIndex="">
+          <dimensions>
+           <language>en</language>
+          </dimensions>
+          <accessRoles __type="array"/>
+          <creationDateTime __type="object" __classname="DateTime">2019-12-08T20:41:27+00:00</creationDateTime>
+          <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T20:42:53+00:00</lastModificationDateTime>
+          <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T20:42:53+00:00</lastPublicationDateTime>
+          <properties/>
+         </variant>
+         <node identifier="4d197876-c05c-44bf-826e-4e36ff4a3c0d" nodeName="node-bwwv3ivtxwcmm">
+          <variant sortingIndex="150" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Content.Media" version="7" removed="" hidden="" hiddenInIndex="">
+           <dimensions>
+            <language>en</language>
+           </dimensions>
+           <accessRoles __type="array"/>
+           <creationDateTime __type="object" __classname="DateTime">2019-12-08T20:58:14+00:00</creationDateTime>
+           <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T21:00:28+00:00</lastModificationDateTime>
+           <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T21:00:28+00:00</lastPublicationDateTime>
+           <properties>
+            <width __type="integer">150</width>
+            <height __type="string"></height>
+            <titletext __type="string">Stefanie Rauch | Chefassistenz</titletext>
+            <bodytext __type="string">&lt;p&gt;Dachauer Str. 37 | 85232 Feldgeding&lt;br&gt;Tel: +49 (0)8131 - 4 54 37 73&amp;nbsp;&lt;br&gt;&lt;a href=&quot;mailto:stefanie.rauch@apex-sol.de&quot; title=&quot;E-Mail to Stefanie Rauch&quot;&gt;stefanie.rauch@apex-sol.de&lt;/a&gt;&lt;/p&gt;</bodytext>
+            <image __type="object" __identifier="2f4e9409-f165-4559-8642-9af5528da215" __classname="Neos\Media\Domain\Model\ImageVariant" __encoding="json">{&quot;__identity&quot;:&quot;2f4e9409-f165-4559-8642-9af5528da215&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\ImageVariant&quot;,&quot;originalAsset&quot;:{&quot;__identity&quot;:&quot;929b98fa-aeeb-4ada-a247-801913819859&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;csm_Stefani_Rauch_ohnenummer_b566230284.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;69e2b89b353ee53b82256b4052aa4befff183b78&quot;,&quot;hash&quot;:&quot;69e2b89b353ee53b82256b4052aa4befff183b78&quot;,&quot;__identity&quot;:&quot;0c19ade8-ceae-4858-a43f-fd2a8edd3f65&quot;}},&quot;adjustments&quot;:[{&quot;aspectRatio&quot;:null,&quot;height&quot;:77,&quot;position&quot;:10,&quot;width&quot;:102,&quot;x&quot;:148,&quot;y&quot;:0,&quot;__identity&quot;:&quot;a22144dd-62c8-4ace-b885-e8ff70b187ad&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Adjustment\\CropImageAdjustment&quot;}]}</image>
+           </properties>
+          </variant>
+         </node>
+         <node identifier="f22cbdf5-33da-4a9c-9229-45139c543a5e" nodeName="node-hg5a56vkbzjml">
+          <variant sortingIndex="50" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Content.Headline" version="8" removed="" hidden="" hiddenInIndex="">
+           <dimensions>
+            <language>en</language>
+           </dimensions>
+           <accessRoles __type="array"/>
+           <creationDateTime __type="object" __classname="DateTime">2019-12-08T20:43:34+00:00</creationDateTime>
+           <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T20:45:03+00:00</lastModificationDateTime>
+           <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T20:45:03+00:00</lastPublicationDateTime>
+           <properties>
+            <title __type="string">&lt;h3&gt;Unser Team&lt;/h3&gt;</title>
+           </properties>
+          </variant>
+         </node>
+         <node identifier="4f4a81a5-0af4-4e48-9e5b-09e445eb0ca7" nodeName="node-ngx9pneu6zifc">
+          <variant sortingIndex="200" workspace="live" nodeType="GeosphereWeb.ApexEngineering:Content.Headline" version="6" removed="" hidden="" hiddenInIndex="">
+           <dimensions>
+            <language>en</language>
+           </dimensions>
+           <accessRoles __type="array"/>
+           <creationDateTime __type="object" __classname="DateTime">2019-12-08T21:01:23+00:00</creationDateTime>
+           <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T21:02:14+00:00</lastModificationDateTime>
+           <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T21:02:14+00:00</lastPublicationDateTime>
+           <properties>
+            <title __type="string">&lt;h4&gt;Weitere Ansprechpartner&lt;/h4&gt;</title>
+           </properties>
+          </variant>
+         </node>
+         <node identifier="04685172-fdbf-447f-9799-409595b36eae" nodeName="node-zfjqwolkicd41">
+          <variant sortingIndex="100" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Content.Media" version="5" removed="" hidden="" hiddenInIndex="">
+           <dimensions>
+            <language>en</language>
+           </dimensions>
+           <accessRoles __type="array"/>
+           <creationDateTime __type="object" __classname="DateTime">2019-12-08T20:42:03+00:00</creationDateTime>
+           <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T21:00:28+00:00</lastModificationDateTime>
+           <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T21:00:28+00:00</lastPublicationDateTime>
+           <properties>
+            <width __type="integer">150</width>
+            <height __type="string"></height>
+            <titletext __type="string">Helga Gustin | Geschäftsführerin</titletext>
+            <bodytext __type="string">&lt;p&gt;Frankfurter Ring 243 | 80807 München&lt;br&gt;&lt;a href=&quot;mailto:helga.gustin@apex-muc.de&quot; title=&quot;E-Mail to Helga Gustin&quot;&gt;helga.gustin@apex-sol.de&lt;/a&gt;&lt;/p&gt;</bodytext>
+            <image __type="object" __identifier="01d20551-2000-4a0b-8448-f4eeabe52661" __classname="Neos\Media\Domain\Model\ImageVariant" __encoding="json">{&quot;__identity&quot;:&quot;01d20551-2000-4a0b-8448-f4eeabe52661&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\ImageVariant&quot;,&quot;originalAsset&quot;:{&quot;__identity&quot;:&quot;acee8c24-1151-43ae-ab81-7845ce3c6d65&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;csm_Helga_gustin_neu__002__e866c8f284.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;20fdcbf1cb12f5b0c6976be82c4205ae3aa45bdc&quot;,&quot;hash&quot;:&quot;20fdcbf1cb12f5b0c6976be82c4205ae3aa45bdc&quot;,&quot;__identity&quot;:&quot;d78baadc-a47a-41ec-8914-0fbbe6e239c6&quot;}},&quot;adjustments&quot;:[{&quot;aspectRatio&quot;:null,&quot;height&quot;:87,&quot;position&quot;:10,&quot;width&quot;:114,&quot;x&quot;:156,&quot;y&quot;:0,&quot;__identity&quot;:&quot;9edfbf3f-eb50-404a-a7bd-4a13c1352f04&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Adjustment\\CropImageAdjustment&quot;}]}</image>
+           </properties>
+          </variant>
+         </node>
+        </node>
+       </node>
+      </node>
+     </node>
+     <node identifier="4297fb13-de89-4112-84fe-8ad5073ef6d8" nodeName="node-x4e4lme1c1m22">
+      <variant sortingIndex="1050" workspace="live" nodeType="GeosphereWeb.ApexEngineering:Document.Page" version="2" removed="" hidden="" hiddenInIndex="">
+       <dimensions>
+        <language>en</language>
+       </dimensions>
+       <accessRoles __type="array"/>
+       <creationDateTime __type="object" __classname="DateTime">2019-12-07T19:12:00+00:00</creationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2019-12-07T19:16:28+00:00</lastModificationDateTime>
+       <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-07T19:16:27+00:00</lastPublicationDateTime>
+       <properties>
+        <uriPathSegment __type="string">standorte</uriPathSegment>
+        <title __type="string">Standorte</title>
+       </properties>
+      </variant>
+      <node identifier="41c49f77-8f1b-f18f-1534-cc230b562cf1" nodeName="main">
+       <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="2" removed="" hidden="" hiddenInIndex="">
+        <dimensions>
+         <language>en</language>
+        </dimensions>
+        <accessRoles __type="array"/>
+        <creationDateTime __type="object" __classname="DateTime">2019-12-07T19:12:00+00:00</creationDateTime>
+        <lastModificationDateTime __type="object" __classname="DateTime">2019-12-07T19:16:28+00:00</lastModificationDateTime>
+        <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-07T19:16:27+00:00</lastPublicationDateTime>
+        <properties/>
+       </variant>
+      </node>
+     </node>
+    </node>
+    <node identifier="e66c454e-4b90-43f0-9a75-8547dcdf525a" nodeName="node-2gz91sto0eakc">
+     <variant sortingIndex="1350" workspace="live" nodeType="GeosphereWeb.ApexEngineering:Document.Page" version="4" removed="" hidden="" hiddenInIndex="">
+      <dimensions>
+       <language>en</language>
+      </dimensions>
+      <accessRoles __type="array"/>
+      <creationDateTime __type="object" __classname="DateTime">2019-12-16T22:22:03+00:00</creationDateTime>
+      <lastModificationDateTime __type="object" __classname="DateTime">2019-12-16T22:29:36+00:00</lastModificationDateTime>
+      <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-16T22:29:36+00:00</lastPublicationDateTime>
+      <properties>
+       <uriPathSegment __type="string">agb</uriPathSegment>
+       <title __type="string">AGB</title>
+       <hideFromMainMenu __type="boolean">1</hideFromMainMenu>
+      </properties>
+     </variant>
+     <node identifier="f3e77df0-0182-6582-dec1-6bf3c3c18829" nodeName="main">
+      <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="2" removed="" hidden="" hiddenInIndex="">
+       <dimensions>
+        <language>en</language>
+       </dimensions>
+       <accessRoles __type="array"/>
+       <creationDateTime __type="object" __classname="DateTime">2019-12-16T22:22:03+00:00</creationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2019-12-16T22:22:41+00:00</lastModificationDateTime>
+       <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-16T22:22:41+00:00</lastPublicationDateTime>
+       <properties/>
+      </variant>
+     </node>
+    </node>
+    <node identifier="89a41b43-04d6-4290-a81e-5830f2b6940f" nodeName="node-7mpd04glxm2h9">
+     <variant sortingIndex="900" workspace="live" nodeType="GeosphereWeb.ApexEngineering:Document.Page" version="4" removed="" hidden="" hiddenInIndex="">
+      <dimensions>
+       <language>en</language>
+      </dimensions>
+      <accessRoles __type="array"/>
+      <creationDateTime __type="object" __classname="DateTime">2019-12-07T19:10:16+00:00</creationDateTime>
+      <lastModificationDateTime __type="object" __classname="DateTime">2019-12-07T19:16:28+00:00</lastModificationDateTime>
+      <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-07T19:16:27+00:00</lastPublicationDateTime>
+      <properties>
+       <uriPathSegment __type="string">karriere</uriPathSegment>
+       <title __type="string">Karriere</title>
+      </properties>
+     </variant>
+     <node identifier="53290623-a285-b319-2f7a-8d89e26f9a04" nodeName="main">
+      <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="2" removed="" hidden="" hiddenInIndex="">
+       <dimensions>
+        <language>en</language>
+       </dimensions>
+       <accessRoles __type="array"/>
+       <creationDateTime __type="object" __classname="DateTime">2019-12-07T19:10:16+00:00</creationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2019-12-07T19:16:28+00:00</lastModificationDateTime>
+       <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-07T19:16:27+00:00</lastPublicationDateTime>
+       <properties/>
+      </variant>
+     </node>
+     <node identifier="70a7b559-e916-40da-a1d9-16a82ad3d5d4" nodeName="node-gi04qjvxm7tp3">
+      <variant sortingIndex="200" workspace="live" nodeType="GeosphereWeb.ApexEngineering:Document.Page" version="3" removed="" hidden="" hiddenInIndex="">
+       <dimensions>
+        <language>en</language>
+       </dimensions>
+       <accessRoles __type="array"/>
+       <creationDateTime __type="object" __classname="DateTime">2019-12-07T19:15:44+00:00</creationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:48:51+00:00</lastModificationDateTime>
+       <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:48:51+00:00</lastPublicationDateTime>
+       <properties>
+        <uriPathSegment __type="string">karriere-bei-apex</uriPathSegment>
+        <title __type="string">Karriere bei Apex</title>
+       </properties>
+      </variant>
+      <node identifier="88321571-3f65-1656-7b42-8deecb57da0f" nodeName="main">
+       <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="2" removed="" hidden="" hiddenInIndex="">
+        <dimensions>
+         <language>en</language>
+        </dimensions>
+        <accessRoles __type="array"/>
+        <creationDateTime __type="object" __classname="DateTime">2019-12-07T19:15:44+00:00</creationDateTime>
+        <lastModificationDateTime __type="object" __classname="DateTime">2019-12-07T19:16:28+00:00</lastModificationDateTime>
+        <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-07T19:16:27+00:00</lastPublicationDateTime>
+        <properties/>
+       </variant>
+      </node>
+     </node>
+     <node identifier="634c2a02-15b5-41f8-a077-f0e4af90f5fa" nodeName="node-t08ghisxfxgxk">
+      <variant sortingIndex="300" workspace="live" nodeType="GeosphereWeb.ApexEngineering:Document.Page" version="2" removed="" hidden="" hiddenInIndex="">
+       <dimensions>
+        <language>en</language>
+       </dimensions>
+       <accessRoles __type="array"/>
+       <creationDateTime __type="object" __classname="DateTime">2019-12-07T19:16:08+00:00</creationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2019-12-07T19:16:28+00:00</lastModificationDateTime>
+       <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-07T19:16:27+00:00</lastPublicationDateTime>
+       <properties>
+        <uriPathSegment __type="string">warum-apex</uriPathSegment>
+        <title __type="string">Warum APEX?</title>
+       </properties>
+      </variant>
+      <node identifier="b676305d-ef23-8164-de09-eaa87526a427" nodeName="main">
+       <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="2" removed="" hidden="" hiddenInIndex="">
+        <dimensions>
+         <language>en</language>
+        </dimensions>
+        <accessRoles __type="array"/>
+        <creationDateTime __type="object" __classname="DateTime">2019-12-07T19:16:08+00:00</creationDateTime>
+        <lastModificationDateTime __type="object" __classname="DateTime">2019-12-07T19:16:28+00:00</lastModificationDateTime>
+        <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-07T19:16:27+00:00</lastPublicationDateTime>
+        <properties/>
+       </variant>
+      </node>
+     </node>
+     <node identifier="b623cb55-b654-4946-8652-26f6bc9c74d1" nodeName="node-tocix4rj99rhe">
+      <variant sortingIndex="625" workspace="live" nodeType="GeosphereWeb.ApexEngineering:Document.Page" version="3" removed="" hidden="" hiddenInIndex="">
+       <dimensions>
+        <language>en</language>
+       </dimensions>
+       <accessRoles __type="array"/>
+       <creationDateTime __type="object" __classname="DateTime">2019-12-07T19:16:23+00:00</creationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2019-12-07T19:16:28+00:00</lastModificationDateTime>
+       <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-07T19:16:27+00:00</lastPublicationDateTime>
+       <properties>
+        <uriPathSegment __type="string">offene-stellen</uriPathSegment>
+        <title __type="string">Offene Stellen</title>
+       </properties>
+      </variant>
+      <node identifier="5a8286e6-4b3c-2dae-1bb7-2c116d77b6d6" nodeName="main">
+       <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="2" removed="" hidden="" hiddenInIndex="">
+        <dimensions>
+         <language>en</language>
+        </dimensions>
+        <accessRoles __type="array"/>
+        <creationDateTime __type="object" __classname="DateTime">2019-12-07T19:16:23+00:00</creationDateTime>
+        <lastModificationDateTime __type="object" __classname="DateTime">2019-12-07T19:16:28+00:00</lastModificationDateTime>
+        <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-07T19:16:27+00:00</lastPublicationDateTime>
+        <properties/>
+       </variant>
+      </node>
+     </node>
+    </node>
+    <node identifier="bcf76676-e49a-4f06-bbb1-61f01a2760d6" nodeName="node-839ue9lkmow0z">
+     <variant sortingIndex="1300" workspace="live" nodeType="GeosphereWeb.ApexEngineering:Document.Page" version="3" removed="" hidden="" hiddenInIndex="">
+      <dimensions>
+       <language>en</language>
+      </dimensions>
+      <accessRoles __type="array"/>
+      <creationDateTime __type="object" __classname="DateTime">2019-12-16T22:21:54+00:00</creationDateTime>
+      <lastModificationDateTime __type="object" __classname="DateTime">2019-12-16T22:29:38+00:00</lastModificationDateTime>
+      <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-16T22:29:38+00:00</lastPublicationDateTime>
+      <properties>
+       <uriPathSegment __type="string">datenschutz</uriPathSegment>
+       <title __type="string">Datenschutz</title>
+       <hideFromMainMenu __type="boolean">1</hideFromMainMenu>
+      </properties>
+     </variant>
+     <node identifier="f737f94c-18c0-9b60-92cf-114dac3424cf" nodeName="main">
+      <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="2" removed="" hidden="" hiddenInIndex="">
+       <dimensions>
+        <language>en</language>
+       </dimensions>
+       <accessRoles __type="array"/>
+       <creationDateTime __type="object" __classname="DateTime">2019-12-16T22:21:54+00:00</creationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2019-12-16T22:22:41+00:00</lastModificationDateTime>
+       <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-16T22:22:41+00:00</lastPublicationDateTime>
+       <properties/>
+      </variant>
+     </node>
+    </node>
+    <node identifier="dbbd614d-ee89-41e1-8c9e-2a134821de59" nodeName="node-spirn4x3ugl1x">
+     <variant sortingIndex="1200" workspace="live" nodeType="GeosphereWeb.ApexEngineering:Document.Page" version="3" removed="" hidden="" hiddenInIndex="">
+      <dimensions>
+       <language>en</language>
+      </dimensions>
+      <accessRoles __type="array"/>
+      <creationDateTime __type="object" __classname="DateTime">2019-12-16T21:45:12+00:00</creationDateTime>
+      <lastModificationDateTime __type="object" __classname="DateTime">2019-12-16T21:45:35+00:00</lastModificationDateTime>
+      <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-16T21:45:35+00:00</lastPublicationDateTime>
+      <properties>
+       <uriPathSegment __type="string">impressum</uriPathSegment>
+       <title __type="string">Impressum</title>
+       <hideFromMainMenu __type="boolean">1</hideFromMainMenu>
+      </properties>
+     </variant>
+     <node identifier="942c66b6-a191-668e-b248-d56aac30fa3d" nodeName="main">
+      <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="2" removed="" hidden="" hiddenInIndex="">
+       <dimensions>
+        <language>en</language>
+       </dimensions>
+       <accessRoles __type="array"/>
+       <creationDateTime __type="object" __classname="DateTime">2019-12-16T21:45:12+00:00</creationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2019-12-16T21:45:35+00:00</lastModificationDateTime>
+       <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-16T21:45:35+00:00</lastPublicationDateTime>
+       <properties/>
+      </variant>
+     </node>
     </node>
     <node identifier="b90b9ac8-4919-41ce-8ac8-1f1bb0464c90" nodeName="node-st848k789igwk">
      <variant sortingIndex="200" workspace="live" nodeType="GeosphereWeb.ApexEngineering:Document.Page" version="3" removed="" hidden="" hiddenInIndex="1">
       <dimensions/>
       <accessRoles __type="array"/>
-      <creationDateTime __type="object" __classname="DateTime">2018-06-26T23:21:39+02:00</creationDateTime>
-      <lastModificationDateTime __type="object" __classname="DateTime">2018-06-26T23:23:05+02:00</lastModificationDateTime>
-      <lastPublicationDateTime __type="object" __classname="DateTime">2018-06-26T23:23:05+02:00</lastPublicationDateTime>
+      <creationDateTime __type="object" __classname="DateTime">2018-06-26T23:21:39+00:00</creationDateTime>
+      <lastModificationDateTime __type="object" __classname="DateTime">2018-06-26T23:23:05+00:00</lastModificationDateTime>
+      <lastPublicationDateTime __type="object" __classname="DateTime">2018-06-26T23:23:05+00:00</lastPublicationDateTime>
       <properties>
        <uriPathSegment __type="string">404</uriPathSegment>
-       <canonicalLink __type="string"></canonicalLink>
+       <title __type="string">Page not found</title>
+       <hideFromMainMenu __type="boolean">1</hideFromMainMenu>
+       <metaRobotsNoindex __type="boolean">1</metaRobotsNoindex>
+      </properties>
+     </variant>
+     <variant sortingIndex="1000" workspace="live" nodeType="GeosphereWeb.ApexEngineering:Document.Page" version="4" removed="" hidden="" hiddenInIndex="1">
+      <dimensions>
+       <language>en</language>
+      </dimensions>
+      <accessRoles __type="array"/>
+      <creationDateTime __type="object" __classname="DateTime">2019-11-26T20:36:51+00:00</creationDateTime>
+      <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:07:11+00:00</lastModificationDateTime>
+      <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:07:10+00:00</lastPublicationDateTime>
+      <properties>
+       <uriPathSegment __type="string">404</uriPathSegment>
        <title __type="string">Page not found</title>
        <hideFromMainMenu __type="boolean">1</hideFromMainMenu>
        <metaRobotsNoindex __type="boolean">1</metaRobotsNoindex>
       </properties>
      </variant>
      <node identifier="c78a1120-2f5f-325f-23b8-670263d72d0d" nodeName="main">
+      <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="3" removed="" hidden="" hiddenInIndex="">
+       <dimensions>
+        <language>en</language>
+       </dimensions>
+       <accessRoles __type="array"/>
+       <creationDateTime __type="object" __classname="DateTime">2019-11-26T20:36:51+00:00</creationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:07:11+00:00</lastModificationDateTime>
+       <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:07:10+00:00</lastPublicationDateTime>
+       <properties/>
+      </variant>
       <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="2" removed="" hidden="" hiddenInIndex="">
        <dimensions/>
        <accessRoles __type="array"/>
-       <creationDateTime __type="object" __classname="DateTime">2018-06-26T23:21:39+02:00</creationDateTime>
-       <lastModificationDateTime __type="object" __classname="DateTime">2018-06-26T23:23:05+02:00</lastModificationDateTime>
-       <lastPublicationDateTime __type="object" __classname="DateTime">2018-06-26T23:23:05+02:00</lastPublicationDateTime>
+       <creationDateTime __type="object" __classname="DateTime">2018-06-26T23:21:39+00:00</creationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2018-06-26T23:23:05+00:00</lastModificationDateTime>
+       <lastPublicationDateTime __type="object" __classname="DateTime">2018-06-26T23:23:05+00:00</lastPublicationDateTime>
        <properties/>
       </variant>
+      <node identifier="523e8117-df1e-45fa-9158-9da877edcbbb" nodeName="node-8wbg6m8c2w9g0">
+       <variant sortingIndex="100" workspace="live" nodeType="GeosphereWeb.ApexEngineering:Content.Text" version="6" removed="" hidden="" hiddenInIndex="">
+        <dimensions>
+         <language>en</language>
+        </dimensions>
+        <accessRoles __type="array"/>
+        <creationDateTime __type="object" __classname="DateTime">2019-12-08T21:29:47+00:00</creationDateTime>
+        <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T21:30:14+00:00</lastModificationDateTime>
+        <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T21:30:14+00:00</lastPublicationDateTime>
+        <properties>
+         <text __type="string">&lt;p&gt;Seite wurde leider nicht gefunden.&lt;/p&gt;</text>
+        </properties>
+       </variant>
+      </node>
+     </node>
+    </node>
+    <node identifier="26c11ea6-dfac-48e8-9cbd-6b44ff6b86d9" nodeName="node-x61stbk9i02h9">
+     <variant sortingIndex="800" workspace="live" nodeType="Neos.Neos:Shortcut" version="5" removed="" hidden="" hiddenInIndex="">
+      <dimensions>
+       <language>en</language>
+      </dimensions>
+      <accessRoles __type="array"/>
+      <creationDateTime __type="object" __classname="DateTime">2019-12-07T19:09:51+00:00</creationDateTime>
+      <lastModificationDateTime __type="object" __classname="DateTime">2019-12-10T20:21:30+00:00</lastModificationDateTime>
+      <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:07:10+00:00</lastPublicationDateTime>
+      <properties>
+       <uriPathSegment __type="string">leistungen</uriPathSegment>
+       <title __type="string">Leistungen</title>
+       <targetMode __type="string">firstChildNode</targetMode>
+       <metaRobotsNoindex __type="boolean">1</metaRobotsNoindex>
+      </properties>
+     </variant>
+     <node identifier="484f9573-635c-430e-a4ee-f6580bdb9ec8" nodeName="node-3so7d4yiyjw0s">
+      <variant sortingIndex="400" workspace="live" nodeType="GeosphereWeb.ApexEngineering:Document.Page" version="4" removed="" hidden="" hiddenInIndex="">
+       <dimensions>
+        <language>en</language>
+       </dimensions>
+       <accessRoles __type="array"/>
+       <creationDateTime __type="object" __classname="DateTime">2019-12-07T19:14:31+00:00</creationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2019-12-13T17:18:27+00:00</lastModificationDateTime>
+       <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T21:05:09+00:00</lastPublicationDateTime>
+       <properties>
+        <uriPathSegment __type="string">projektmanagement</uriPathSegment>
+        <title __type="string">Projektmanagement</title>
+       </properties>
+      </variant>
+      <node identifier="bb19f0d2-2d5a-682e-09d1-60e4192ccbb5" nodeName="main">
+       <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="2" removed="" hidden="" hiddenInIndex="">
+        <dimensions>
+         <language>en</language>
+        </dimensions>
+        <accessRoles __type="array"/>
+        <creationDateTime __type="object" __classname="DateTime">2019-12-07T19:14:31+00:00</creationDateTime>
+        <lastModificationDateTime __type="object" __classname="DateTime">2019-12-07T19:16:28+00:00</lastModificationDateTime>
+        <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-07T19:16:27+00:00</lastPublicationDateTime>
+        <properties/>
+       </variant>
+      </node>
+     </node>
+     <node identifier="ec7781eb-231d-43b9-bc01-9afdce041b9b" nodeName="node-p3h2qgpuyqop1">
+      <variant sortingIndex="300" workspace="live" nodeType="GeosphereWeb.ApexEngineering:Document.Page" version="4" removed="" hidden="" hiddenInIndex="">
+       <dimensions>
+        <language>en</language>
+       </dimensions>
+       <accessRoles __type="array"/>
+       <creationDateTime __type="object" __classname="DateTime">2019-12-07T19:13:38+00:00</creationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2019-12-13T17:18:27+00:00</lastModificationDateTime>
+       <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T21:05:09+00:00</lastPublicationDateTime>
+       <properties>
+        <uriPathSegment __type="string">automotive-wirering</uriPathSegment>
+        <title __type="string">Automotive Wirering</title>
+       </properties>
+      </variant>
+      <node identifier="821bd006-a35b-39cb-5c54-1018b7ee7786" nodeName="main">
+       <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="2" removed="" hidden="" hiddenInIndex="">
+        <dimensions>
+         <language>en</language>
+        </dimensions>
+        <accessRoles __type="array"/>
+        <creationDateTime __type="object" __classname="DateTime">2019-12-07T19:13:38+00:00</creationDateTime>
+        <lastModificationDateTime __type="object" __classname="DateTime">2019-12-07T19:16:28+00:00</lastModificationDateTime>
+        <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-07T19:16:27+00:00</lastPublicationDateTime>
+        <properties/>
+       </variant>
+       <node identifier="874a6d56-2b19-4b68-8754-4365690aae34" nodeName="node-nortm36vn2qhi">
+        <variant sortingIndex="200" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Content.Container" version="5" removed="" hidden="" hiddenInIndex="">
+         <dimensions>
+          <language>en</language>
+         </dimensions>
+         <accessRoles __type="array"/>
+         <creationDateTime __type="object" __classname="DateTime">2019-12-08T21:35:34+00:00</creationDateTime>
+         <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T21:36:20+00:00</lastModificationDateTime>
+         <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T21:36:20+00:00</lastPublicationDateTime>
+         <properties>
+          <backgroundColor __type="string"></backgroundColor>
+          <backgroundSize __type="string">cover</backgroundSize>
+          <backgroundPosition __type="string">center bottom</backgroundPosition>
+          <padding __type="boolean">1</padding>
+          <fluid __type="boolean"></fluid>
+          <textWhite __type="boolean">1</textWhite>
+          <parallax __type="boolean"></parallax>
+          <spacing __type="string">py-5</spacing>
+          <backgroundImage __type="object" __identifier="b67cf676-8fef-4eaa-abed-7d54c0813b28" __classname="Neos\Media\Domain\Model\Image" __encoding="json">{&quot;__identity&quot;:&quot;b67cf676-8fef-4eaa-abed-7d54c0813b28&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;Fotolia_36644852_XS.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;c0d248528d53be06d0aaf4da12ac9ea7ba9c290f&quot;,&quot;hash&quot;:&quot;c0d248528d53be06d0aaf4da12ac9ea7ba9c290f&quot;,&quot;__identity&quot;:&quot;47dd7429-d6c4-4dc5-a099-2b009ae62a28&quot;}}</backgroundImage>
+         </properties>
+        </variant>
+        <node identifier="2b95f8c6-5ed1-4488-76d7-5e10e617dc9b" nodeName="contentitems">
+         <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="2" removed="" hidden="" hiddenInIndex="">
+          <dimensions>
+           <language>en</language>
+          </dimensions>
+          <accessRoles __type="array"/>
+          <creationDateTime __type="object" __classname="DateTime">2019-12-08T21:35:34+00:00</creationDateTime>
+          <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T21:36:20+00:00</lastModificationDateTime>
+          <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T21:36:20+00:00</lastPublicationDateTime>
+          <properties/>
+         </variant>
+         <node identifier="512e6d83-e521-49e8-900b-224bed066f08" nodeName="node-57ov2doy2hdb7">
+          <variant sortingIndex="100" workspace="live" nodeType="GeosphereWeb.ApexEngineering:Content.Text" version="7" removed="" hidden="" hiddenInIndex="">
+           <dimensions>
+            <language>en</language>
+           </dimensions>
+           <accessRoles __type="array"/>
+           <creationDateTime __type="object" __classname="DateTime">2019-12-08T21:36:27+00:00</creationDateTime>
+           <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T21:36:46+00:00</lastModificationDateTime>
+           <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T21:36:46+00:00</lastPublicationDateTime>
+           <properties>
+            <text __type="string">&lt;p&gt;Hier soll der Text Stehen für Automotive Wireing&lt;/p&gt;</text>
+           </properties>
+          </variant>
+         </node>
+         <node identifier="d1c474e5-f8bb-469e-8997-a0caf9c923ca" nodeName="node-vnj792q9hncsa">
+          <variant sortingIndex="50" workspace="live" nodeType="GeosphereWeb.ApexEngineering:Content.Headline" version="8" removed="" hidden="" hiddenInIndex="">
+           <dimensions>
+            <language>en</language>
+           </dimensions>
+           <accessRoles __type="array"/>
+           <creationDateTime __type="object" __classname="DateTime">2019-12-08T17:06:51+00:00</creationDateTime>
+           <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T21:37:21+00:00</lastModificationDateTime>
+           <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T21:37:21+00:00</lastPublicationDateTime>
+           <properties>
+            <title __type="string">&lt;h3&gt;Automotive Wireing&lt;/h3&gt;</title>
+           </properties>
+          </variant>
+         </node>
+        </node>
+       </node>
+      </node>
      </node>
     </node>
    </node>
