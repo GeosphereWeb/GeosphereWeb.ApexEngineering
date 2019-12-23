@@ -25,6 +25,7 @@ prototype(GeosphereWeb.ApexEngineering:Component.Footer) < prototype(Neos.Neos:C
         <footer class="main-footer container-fluid mt-5 py-5">
             <div class="container">
                 <div class="footerContent">{props.footer}</div>
+                <h4>Weiterführende Links</h4>
                 <div class="footerItems">{props.footerItems}</div>
             </div>
         </footer>
