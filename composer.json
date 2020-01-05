@@ -28,7 +28,9 @@
         "neos/nodetypes-contentreferences": "*",
 
         "twbs/bootstrap": "^4.0.0",
-        "geosphereweb/bootstrap43": "*"
+        "geosphereweb/bootstrap43": "*",
+
+        "miweb/neos-privacy": "^1.0.1"
 
     },
     "extra": {

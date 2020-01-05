@@ -65,6 +65,35 @@
         <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-15T20:57:10+00:00</lastPublicationDateTime>
         <properties/>
        </variant>
+       <node identifier="423aa3e7-170e-45f8-bea5-61057798da8b" nodeName="node-ev32u9mlmbznl">
+        <variant sortingIndex="125" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Content.Headline" version="8" removed="" hidden="" hiddenInIndex="">
+         <dimensions>
+          <language>en</language>
+         </dimensions>
+         <accessRoles __type="array"/>
+         <creationDateTime __type="object" __classname="DateTime">2019-12-28T18:06:08+00:00</creationDateTime>
+         <lastModificationDateTime __type="object" __classname="DateTime">2019-12-29T15:29:08+00:00</lastModificationDateTime>
+         <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-29T15:29:08+00:00</lastPublicationDateTime>
+         <properties>
+          <title __type="string">&lt;h3&gt;::fas fa-shield-alt:: Datenschutzsiegel&lt;/h3&gt;</title>
+         </properties>
+        </variant>
+       </node>
+       <node identifier="31cd4eb6-87e2-4200-ae8d-41c118051016" nodeName="node-fp32vvlaznxx6">
+        <variant sortingIndex="150" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Content.Image" version="4" removed="" hidden="" hiddenInIndex="">
+         <dimensions>
+          <language>en</language>
+         </dimensions>
+         <accessRoles __type="array"/>
+         <creationDateTime __type="object" __classname="DateTime">2019-12-28T18:05:20+00:00</creationDateTime>
+         <lastModificationDateTime __type="object" __classname="DateTime">2019-12-28T18:07:01+00:00</lastModificationDateTime>
+         <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-28T18:07:01+00:00</lastPublicationDateTime>
+         <properties>
+          <caption __type="string"></caption>
+          <image __type="object" __identifier="7103e28e-978e-4257-9992-3e0505ddffed" __classname="Neos\Media\Domain\Model\Image" __encoding="json">{&quot;__identity&quot;:&quot;7103e28e-978e-4257-9992-3e0505ddffed&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;Datenschutz_Siegel_Rund_small.png&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/png&quot;,&quot;sha1&quot;:&quot;d862e0a3b1621094d7073dfd47e8683167386a29&quot;,&quot;hash&quot;:&quot;d862e0a3b1621094d7073dfd47e8683167386a29&quot;,&quot;__identity&quot;:&quot;3ea35337-b046-4e94-91de-e1668301c5e1&quot;}}</image>
+         </properties>
+        </variant>
+       </node>
        <node identifier="31b69875-5f16-4a35-a31e-fd6c10afa14d" nodeName="node-ydtnf1wc74u5q">
         <variant sortingIndex="100" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Content.Text" version="8" removed="" hidden="" hiddenInIndex="">
          <dimensions>
@@ -125,13 +154,6 @@
      </node>
     </node>
     <node identifier="3977d0ba-81fe-e66d-1078-c9a5bb1e3fd5" nodeName="main">
-     <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="1" removed="" hidden="" hiddenInIndex="">
-      <dimensions/>
-      <accessRoles __type="array"/>
-      <creationDateTime __type="object" __classname="DateTime">2018-06-26T23:20:17+00:00</creationDateTime>
-      <lastModificationDateTime __type="object" __classname="DateTime">2018-06-26T23:20:17+00:00</lastModificationDateTime>
-      <properties/>
-     </variant>
      <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="2" removed="" hidden="" hiddenInIndex="">
       <dimensions>
        <language>en</language>
@@ -140,6 +162,13 @@
       <creationDateTime __type="object" __classname="DateTime">2019-10-18T12:33:06+00:00</creationDateTime>
       <lastModificationDateTime __type="object" __classname="DateTime">2019-10-18T12:40:08+00:00</lastModificationDateTime>
       <lastPublicationDateTime __type="object" __classname="DateTime">2019-10-18T12:40:08+00:00</lastPublicationDateTime>
+      <properties/>
+     </variant>
+     <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="1" removed="" hidden="" hiddenInIndex="">
+      <dimensions/>
+      <accessRoles __type="array"/>
+      <creationDateTime __type="object" __classname="DateTime">2018-06-26T23:20:17+00:00</creationDateTime>
+      <lastModificationDateTime __type="object" __classname="DateTime">2018-06-26T23:20:17+00:00</lastModificationDateTime>
       <properties/>
      </variant>
      <node identifier="bf45915f-958d-4741-84d3-c2947034fe84" nodeName="node-ce5x7ecn0b87k">
@@ -152,13 +181,8 @@
        <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:36:37+00:00</lastModificationDateTime>
        <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:36:37+00:00</lastPublicationDateTime>
        <properties>
-        <backgroundColor __type="string"></backgroundColor>
         <backgroundSize __type="string">auto</backgroundSize>
         <backgroundPosition __type="string">center center</backgroundPosition>
-        <padding __type="boolean"></padding>
-        <fluid __type="boolean"></fluid>
-        <textWhite __type="boolean"></textWhite>
-        <parallax __type="boolean"></parallax>
         <spacing __type="string">my-5</spacing>
        </properties>
       </variant>
@@ -233,7 +257,6 @@
            <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:46:51+00:00</lastModificationDateTime>
            <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:46:51+00:00</lastPublicationDateTime>
            <properties>
-            <width __type="string"></width>
             <height __type="integer">200</height>
             <image __type="object" __identifier="dbc4a2ee-9b4a-45a6-9757-3f3748012241" __classname="Neos\Media\Domain\Model\Image" __encoding="json">{&quot;__identity&quot;:&quot;dbc4a2ee-9b4a-45a6-9757-3f3748012241&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;contentbild_team.png&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/png&quot;,&quot;sha1&quot;:&quot;49c805311dcc486e493a52ea5d7898286f321b3a&quot;,&quot;hash&quot;:&quot;49c805311dcc486e493a52ea5d7898286f321b3a&quot;,&quot;__identity&quot;:&quot;5cefe427-3b18-424e-8243-a05edc6148c6&quot;}}</image>
             <styleOptions __type="array">
@@ -307,7 +330,6 @@
            <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:44:23+00:00</lastModificationDateTime>
            <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:44:23+00:00</lastPublicationDateTime>
            <properties>
-            <width __type="string"></width>
             <height __type="integer">200</height>
             <image __type="object" __identifier="d4af8191-787c-48ea-8eca-9838686ae80c" __classname="Neos\Media\Domain\Model\Image" __encoding="json">{&quot;__identity&quot;:&quot;d4af8191-787c-48ea-8eca-9838686ae80c&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;contentbild_unternehmen.png&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/png&quot;,&quot;sha1&quot;:&quot;0818b9da2a3f849c2738aaaaa4fd2b6eeeac7657&quot;,&quot;hash&quot;:&quot;0818b9da2a3f849c2738aaaaa4fd2b6eeeac7657&quot;,&quot;__identity&quot;:&quot;8e67db7c-d79b-4e38-bf88-63a9c2a2cb3a&quot;}}</image>
             <styleOptions __type="array">
@@ -379,7 +401,6 @@
            <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:44:23+00:00</lastModificationDateTime>
            <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:44:23+00:00</lastPublicationDateTime>
            <properties>
-            <width __type="string"></width>
             <height __type="integer">200</height>
             <image __type="object" __identifier="5e9918eb-2081-4c47-bbf8-04357aa28e9d" __classname="Neos\Media\Domain\Model\Image" __encoding="json">{&quot;__identity&quot;:&quot;5e9918eb-2081-4c47-bbf8-04357aa28e9d&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;contentbild_kompetenzen.png&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/png&quot;,&quot;sha1&quot;:&quot;740b59842201c2891e30ba2de3ae18838034290c&quot;,&quot;hash&quot;:&quot;740b59842201c2891e30ba2de3ae18838034290c&quot;,&quot;__identity&quot;:&quot;861ea6e2-f684-485f-9628-564027b297e4&quot;}}</image>
             <styleOptions __type="array">
@@ -478,17 +499,18 @@
       </node>
      </node>
      <node identifier="44d5ab91-0f09-4b83-8831-9927a2037fb9" nodeName="node-cdrmng6y32gpg">
-      <variant sortingIndex="800" workspace="live" nodeType="GeosphereWeb.ApexEngineering:Document.Page" version="3" removed="" hidden="" hiddenInIndex="">
+      <variant sortingIndex="800" workspace="live" nodeType="GeosphereWeb.ApexEngineering:Document.Page" version="4" removed="" hidden="" hiddenInIndex="">
        <dimensions>
         <language>en</language>
        </dimensions>
        <accessRoles __type="array"/>
        <creationDateTime __type="object" __classname="DateTime">2019-12-08T17:50:35+00:00</creationDateTime>
-       <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:51:52+00:00</lastModificationDateTime>
-       <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:51:52+00:00</lastPublicationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2019-12-28T17:45:42+00:00</lastModificationDateTime>
+       <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-28T17:45:42+00:00</lastPublicationDateTime>
        <properties>
         <uriPathSegment __type="string">entstehungsgeschichte</uriPathSegment>
         <title __type="string">Entstehungsgeschichte</title>
+        <additionalInfo __type="string">Unternehmungsgründung und Entstehungsgeschichte</additionalInfo>
        </properties>
       </variant>
       <node identifier="38a6cd8c-a6e0-d24d-07d4-d35b2a475be5" nodeName="main">
@@ -512,15 +534,11 @@
          <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T20:54:16+00:00</lastModificationDateTime>
          <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T20:54:16+00:00</lastPublicationDateTime>
          <properties>
-          <backgroundColor __type="string"></backgroundColor>
           <backgroundSize __type="string">cover</backgroundSize>
           <backgroundPosition __type="string">center center</backgroundPosition>
-          <padding __type="boolean"></padding>
-          <fluid __type="boolean"></fluid>
-          <textWhite __type="boolean"></textWhite>
           <parallax __type="boolean">1</parallax>
           <spacing __type="string">py-5</spacing>
-          <backgroundImage __type="object" __identifier="848592b3-0ea9-45ac-833b-3ae902d7c1e1" __classname="Neos\Media\Domain\Model\ImageVariant" __encoding="json">{&quot;__identity&quot;:&quot;848592b3-0ea9-45ac-833b-3ae902d7c1e1&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\ImageVariant&quot;,&quot;originalAsset&quot;:{&quot;__identity&quot;:&quot;49a6162d-121e-4ec4-9034-4e8412cc1079&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;Fotolia_56690050_S.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;8dca210bad2618471f77e09bde1bb6b4eb4ff6f8&quot;,&quot;hash&quot;:&quot;8dca210bad2618471f77e09bde1bb6b4eb4ff6f8&quot;,&quot;__identity&quot;:&quot;be3135a0-5172-4443-945f-3cf867ef0617&quot;}},&quot;adjustments&quot;:[{&quot;aspectRatio&quot;:null,&quot;height&quot;:613,&quot;position&quot;:10,&quot;width&quot;:613,&quot;x&quot;:0,&quot;y&quot;:0,&quot;__identity&quot;:&quot;1aff1452-939e-446e-8938-d628e01794c7&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Adjustment\\CropImageAdjustment&quot;}]}</backgroundImage>
+          <backgroundImage __type="object" __identifier="848592b3-0ea9-45ac-833b-3ae902d7c1e1" __classname="Neos\Media\Domain\Model\ImageVariant" __encoding="json">{&quot;__identity&quot;:&quot;848592b3-0ea9-45ac-833b-3ae902d7c1e1&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\ImageVariant&quot;,&quot;originalAsset&quot;:{&quot;__identity&quot;:&quot;49a6162d-121e-4ec4-9034-4e8412cc1079&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;Fotolia_56690050_S.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;8dca210bad2618471f77e09bde1bb6b4eb4ff6f8&quot;,&quot;hash&quot;:&quot;8dca210bad2618471f77e09bde1bb6b4eb4ff6f8&quot;,&quot;__identity&quot;:&quot;be3135a0-5172-4443-945f-3cf867ef0617&quot;}},&quot;adjustments&quot;:[{&quot;aspectRatio&quot;:null,&quot;height&quot;:613,&quot;position&quot;:10,&quot;width&quot;:613,&quot;x&quot;:0,&quot;y&quot;:0,&quot;__identity&quot;:&quot;166ed47d-a300-42a5-9756-0650e6d0c751&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Adjustment\\CropImageAdjustment&quot;}]}</backgroundImage>
          </properties>
         </variant>
         <node identifier="3f879b13-2df8-d989-c6b6-9a9fdb4fc734" nodeName="contentitems">
@@ -619,17 +637,18 @@
       </node>
      </node>
      <node identifier="9862cf75-60d2-4c7c-850f-5675db9af0c0" nodeName="node-ejr84yzv3k1xd">
-      <variant sortingIndex="850" workspace="live" nodeType="GeosphereWeb.ApexEngineering:Document.Page" version="6" removed="" hidden="" hiddenInIndex="">
+      <variant sortingIndex="850" workspace="live" nodeType="GeosphereWeb.ApexEngineering:Document.Page" version="7" removed="" hidden="" hiddenInIndex="">
        <dimensions>
         <language>en</language>
        </dimensions>
        <accessRoles __type="array"/>
        <creationDateTime __type="object" __classname="DateTime">2019-12-07T19:11:20+00:00</creationDateTime>
-       <lastModificationDateTime __type="object" __classname="DateTime">2019-12-13T17:18:27+00:00</lastModificationDateTime>
-       <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T21:34:06+00:00</lastPublicationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2019-12-28T17:47:53+00:00</lastModificationDateTime>
+       <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-28T17:47:53+00:00</lastPublicationDateTime>
        <properties>
         <uriPathSegment __type="string">uber-uns</uriPathSegment>
         <title __type="string">Über uns</title>
+        <additionalInfo __type="string">Den Antrieb eines Erfolgreichen Unternehmens bilden die Mitarbeiter</additionalInfo>
        </properties>
       </variant>
       <node identifier="52c4ade5-7982-9572-b390-3992634c8cdf" nodeName="main">
@@ -653,13 +672,10 @@
          <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T20:53:38+00:00</lastModificationDateTime>
          <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T20:53:38+00:00</lastPublicationDateTime>
          <properties>
-          <backgroundColor __type="string"></backgroundColor>
           <backgroundSize __type="string">cover</backgroundSize>
           <backgroundPosition __type="string">left bottom</backgroundPosition>
           <padding __type="boolean">1</padding>
-          <fluid __type="boolean"></fluid>
           <textWhite __type="boolean">1</textWhite>
-          <parallax __type="boolean"></parallax>
           <spacing __type="string">py-5</spacing>
           <backgroundImage __type="object" __identifier="3d156c51-64c7-4dbd-9651-161d431c15ec" __classname="Neos\Media\Domain\Model\Image" __encoding="json">{&quot;__identity&quot;:&quot;3d156c51-64c7-4dbd-9651-161d431c15ec&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;Fotolia_49510969_S.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;82b43b9e10171e0f7639e78f9bf428d77e3b8e12&quot;,&quot;hash&quot;:&quot;82b43b9e10171e0f7639e78f9bf428d77e3b8e12&quot;,&quot;__identity&quot;:&quot;4b08d787-3d27-4aba-9a87-4e9ad15da7ee&quot;}}</backgroundImage>
          </properties>
@@ -767,13 +783,9 @@
          <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T20:53:38+00:00</lastModificationDateTime>
          <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T20:53:38+00:00</lastPublicationDateTime>
          <properties>
-          <backgroundColor __type="string"></backgroundColor>
           <backgroundSize __type="string">cover</backgroundSize>
           <backgroundPosition __type="string">center center</backgroundPosition>
           <padding __type="boolean">1</padding>
-          <fluid __type="boolean"></fluid>
-          <textWhite __type="boolean"></textWhite>
-          <parallax __type="boolean"></parallax>
           <spacing __type="string">py-5</spacing>
          </properties>
         </variant>
@@ -799,10 +811,9 @@
            <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T21:00:28+00:00</lastPublicationDateTime>
            <properties>
             <width __type="integer">150</width>
-            <height __type="string"></height>
             <titletext __type="string">Stefanie Rauch | Chefassistenz</titletext>
             <bodytext __type="string">&lt;p&gt;Dachauer Str. 37 | 85232 Feldgeding&lt;br&gt;Tel: +49 (0)8131 - 4 54 37 73&amp;nbsp;&lt;br&gt;&lt;a href=&quot;mailto:stefanie.rauch@apex-sol.de&quot; title=&quot;E-Mail to Stefanie Rauch&quot;&gt;stefanie.rauch@apex-sol.de&lt;/a&gt;&lt;/p&gt;</bodytext>
-            <image __type="object" __identifier="2f4e9409-f165-4559-8642-9af5528da215" __classname="Neos\Media\Domain\Model\ImageVariant" __encoding="json">{&quot;__identity&quot;:&quot;2f4e9409-f165-4559-8642-9af5528da215&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\ImageVariant&quot;,&quot;originalAsset&quot;:{&quot;__identity&quot;:&quot;929b98fa-aeeb-4ada-a247-801913819859&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;csm_Stefani_Rauch_ohnenummer_b566230284.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;69e2b89b353ee53b82256b4052aa4befff183b78&quot;,&quot;hash&quot;:&quot;69e2b89b353ee53b82256b4052aa4befff183b78&quot;,&quot;__identity&quot;:&quot;0c19ade8-ceae-4858-a43f-fd2a8edd3f65&quot;}},&quot;adjustments&quot;:[{&quot;aspectRatio&quot;:null,&quot;height&quot;:77,&quot;position&quot;:10,&quot;width&quot;:102,&quot;x&quot;:148,&quot;y&quot;:0,&quot;__identity&quot;:&quot;a22144dd-62c8-4ace-b885-e8ff70b187ad&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Adjustment\\CropImageAdjustment&quot;}]}</image>
+            <image __type="object" __identifier="2f4e9409-f165-4559-8642-9af5528da215" __classname="Neos\Media\Domain\Model\ImageVariant" __encoding="json">{&quot;__identity&quot;:&quot;2f4e9409-f165-4559-8642-9af5528da215&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\ImageVariant&quot;,&quot;originalAsset&quot;:{&quot;__identity&quot;:&quot;929b98fa-aeeb-4ada-a247-801913819859&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;csm_Stefani_Rauch_ohnenummer_b566230284.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;69e2b89b353ee53b82256b4052aa4befff183b78&quot;,&quot;hash&quot;:&quot;69e2b89b353ee53b82256b4052aa4befff183b78&quot;,&quot;__identity&quot;:&quot;0c19ade8-ceae-4858-a43f-fd2a8edd3f65&quot;}},&quot;adjustments&quot;:[{&quot;aspectRatio&quot;:null,&quot;height&quot;:77,&quot;position&quot;:10,&quot;width&quot;:102,&quot;x&quot;:148,&quot;y&quot;:0,&quot;__identity&quot;:&quot;5c61a65b-1a7c-4791-bfb2-802dd98521cb&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Adjustment\\CropImageAdjustment&quot;}]}</image>
            </properties>
           </variant>
          </node>
@@ -845,10 +856,9 @@
            <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T21:00:28+00:00</lastPublicationDateTime>
            <properties>
             <width __type="integer">150</width>
-            <height __type="string"></height>
             <titletext __type="string">Helga Gustin | Geschäftsführerin</titletext>
             <bodytext __type="string">&lt;p&gt;Frankfurter Ring 243 | 80807 München&lt;br&gt;&lt;a href=&quot;mailto:helga.gustin@apex-muc.de&quot; title=&quot;E-Mail to Helga Gustin&quot;&gt;helga.gustin@apex-sol.de&lt;/a&gt;&lt;/p&gt;</bodytext>
-            <image __type="object" __identifier="01d20551-2000-4a0b-8448-f4eeabe52661" __classname="Neos\Media\Domain\Model\ImageVariant" __encoding="json">{&quot;__identity&quot;:&quot;01d20551-2000-4a0b-8448-f4eeabe52661&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\ImageVariant&quot;,&quot;originalAsset&quot;:{&quot;__identity&quot;:&quot;acee8c24-1151-43ae-ab81-7845ce3c6d65&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;csm_Helga_gustin_neu__002__e866c8f284.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;20fdcbf1cb12f5b0c6976be82c4205ae3aa45bdc&quot;,&quot;hash&quot;:&quot;20fdcbf1cb12f5b0c6976be82c4205ae3aa45bdc&quot;,&quot;__identity&quot;:&quot;d78baadc-a47a-41ec-8914-0fbbe6e239c6&quot;}},&quot;adjustments&quot;:[{&quot;aspectRatio&quot;:null,&quot;height&quot;:87,&quot;position&quot;:10,&quot;width&quot;:114,&quot;x&quot;:156,&quot;y&quot;:0,&quot;__identity&quot;:&quot;9edfbf3f-eb50-404a-a7bd-4a13c1352f04&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Adjustment\\CropImageAdjustment&quot;}]}</image>
+            <image __type="object" __identifier="01d20551-2000-4a0b-8448-f4eeabe52661" __classname="Neos\Media\Domain\Model\ImageVariant" __encoding="json">{&quot;__identity&quot;:&quot;01d20551-2000-4a0b-8448-f4eeabe52661&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\ImageVariant&quot;,&quot;originalAsset&quot;:{&quot;__identity&quot;:&quot;acee8c24-1151-43ae-ab81-7845ce3c6d65&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;csm_Helga_gustin_neu__002__e866c8f284.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;20fdcbf1cb12f5b0c6976be82c4205ae3aa45bdc&quot;,&quot;hash&quot;:&quot;20fdcbf1cb12f5b0c6976be82c4205ae3aa45bdc&quot;,&quot;__identity&quot;:&quot;d78baadc-a47a-41ec-8914-0fbbe6e239c6&quot;}},&quot;adjustments&quot;:[{&quot;aspectRatio&quot;:null,&quot;height&quot;:87,&quot;position&quot;:10,&quot;width&quot;:114,&quot;x&quot;:156,&quot;y&quot;:0,&quot;__identity&quot;:&quot;1dae88d1-095a-4898-bc94-b0c52511710f&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Adjustment\\CropImageAdjustment&quot;}]}</image>
            </properties>
           </variant>
          </node>
@@ -963,6 +973,134 @@
         <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-07T19:16:27+00:00</lastPublicationDateTime>
         <properties/>
        </variant>
+       <node identifier="ff089b9a-6d1f-41a6-9fbb-1530a7bf0151" nodeName="node-cdkki5kadt5me">
+        <variant sortingIndex="200" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Content.Container" version="5" removed="" hidden="" hiddenInIndex="">
+         <dimensions>
+          <language>en</language>
+         </dimensions>
+         <accessRoles __type="array"/>
+         <creationDateTime __type="object" __classname="DateTime">2019-12-28T18:09:16+00:00</creationDateTime>
+         <lastModificationDateTime __type="object" __classname="DateTime">2019-12-28T18:19:22+00:00</lastModificationDateTime>
+         <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-28T18:19:22+00:00</lastPublicationDateTime>
+         <properties>
+          <backgroundColor __type="string"></backgroundColor>
+          <backgroundSize __type="string">cover</backgroundSize>
+          <backgroundPosition __type="string">center center</backgroundPosition>
+          <padding __type="boolean"></padding>
+          <fluid __type="boolean">1</fluid>
+          <textWhite __type="boolean"></textWhite>
+          <parallax __type="boolean"></parallax>
+          <spacing __type="string">py-5</spacing>
+          <backgroundImage __type="object" __identifier="49a6162d-121e-4ec4-9034-4e8412cc1079" __classname="Neos\Media\Domain\Model\Image" __encoding="json">{&quot;__identity&quot;:&quot;49a6162d-121e-4ec4-9034-4e8412cc1079&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;Fotolia_56690050_S.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;8dca210bad2618471f77e09bde1bb6b4eb4ff6f8&quot;,&quot;hash&quot;:&quot;8dca210bad2618471f77e09bde1bb6b4eb4ff6f8&quot;,&quot;__identity&quot;:&quot;be3135a0-5172-4443-945f-3cf867ef0617&quot;}}</backgroundImage>
+         </properties>
+        </variant>
+        <node identifier="02996944-33e2-00f7-3ae8-a9652906a082" nodeName="contentitems">
+         <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="2" removed="" hidden="" hiddenInIndex="">
+          <dimensions>
+           <language>en</language>
+          </dimensions>
+          <accessRoles __type="array"/>
+          <creationDateTime __type="object" __classname="DateTime">2019-12-28T18:09:16+00:00</creationDateTime>
+          <lastModificationDateTime __type="object" __classname="DateTime">2019-12-28T18:10:04+00:00</lastModificationDateTime>
+          <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-28T18:10:04+00:00</lastPublicationDateTime>
+          <properties/>
+         </variant>
+         <node identifier="8d1ecd37-b9de-498e-9244-07c6d66f97e8" nodeName="node-73tmk7ad443mk">
+          <variant sortingIndex="300" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Content.Columns.Two" version="2" removed="" hidden="" hiddenInIndex="">
+           <dimensions>
+            <language>en</language>
+           </dimensions>
+           <accessRoles __type="array"/>
+           <creationDateTime __type="object" __classname="DateTime">2019-12-28T18:09:54+00:00</creationDateTime>
+           <lastModificationDateTime __type="object" __classname="DateTime">2019-12-28T18:10:04+00:00</lastModificationDateTime>
+           <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-28T18:10:04+00:00</lastPublicationDateTime>
+           <properties>
+            <breakpoints __type="string">md</breakpoints>
+           </properties>
+          </variant>
+          <node identifier="31408d36-e2ce-5317-b608-e8b1561e8ce4" nodeName="column0">
+           <variant sortingIndex="100" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Collection.Content.Column" version="2" removed="" hidden="" hiddenInIndex="">
+            <dimensions>
+             <language>en</language>
+            </dimensions>
+            <accessRoles __type="array"/>
+            <creationDateTime __type="object" __classname="DateTime">2019-12-28T18:09:54+00:00</creationDateTime>
+            <lastModificationDateTime __type="object" __classname="DateTime">2019-12-28T18:10:04+00:00</lastModificationDateTime>
+            <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-28T18:10:04+00:00</lastPublicationDateTime>
+            <properties/>
+           </variant>
+           <node identifier="94f79df8-2f14-47ba-8b48-3ba2c67ce57e" nodeName="node-9ex6f8u6z9w3g">
+            <variant sortingIndex="100" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Content.Text" version="10" removed="" hidden="" hiddenInIndex="">
+             <dimensions>
+              <language>en</language>
+             </dimensions>
+             <accessRoles __type="array"/>
+             <creationDateTime __type="object" __classname="DateTime">2019-12-28T18:10:51+00:00</creationDateTime>
+             <lastModificationDateTime __type="object" __classname="DateTime">2019-12-29T15:33:22+00:00</lastModificationDateTime>
+             <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-29T15:33:22+00:00</lastPublicationDateTime>
+             <properties>
+              <text __type="string">&lt;h3&gt;Mitgestalten ist ein Privileg!&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Sie konzipieren was Autofahrer an marken-prägenden Fahrzeugen fasziniert&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ein Design mag so schön sein wie es will – es muss technisch umgesetzt sein. Die APEX Engineering GmbH ist für ihre hochwertigen Ingenieursdienstleistungen bekannt. Als einer der führenden Entwicklungspartner im Automobilbereich begleiten wir komplette Fahrzeuggenerationen von der ersten Designskizze bis zum Produktionsstart. Wir sind gefragt, wenn es um anspruchsvolle Lösungen geht.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ihr Einstieg in den Automotive-bereich!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;Sie haben Benzin im Blut? Sie möchten etwas bewegen? Sie wollen Innovationen miterleben und diese mitgestalten? Sie wären gerne Teil eines kreativen Teams?&lt;br&gt;Dann erwartet Sie bei uns ein Job, bei dem Sie die Chance haben, nachhaltig Zeichen zu setzen.&lt;/p&gt;</text>
+             </properties>
+            </variant>
+           </node>
+          </node>
+          <node identifier="bb7e0f33-caad-90ac-9af6-6cd3d7ce826e" nodeName="column1">
+           <variant sortingIndex="200" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Collection.Content.Column" version="2" removed="" hidden="" hiddenInIndex="">
+            <dimensions>
+             <language>en</language>
+            </dimensions>
+            <accessRoles __type="array"/>
+            <creationDateTime __type="object" __classname="DateTime">2019-12-28T18:09:54+00:00</creationDateTime>
+            <lastModificationDateTime __type="object" __classname="DateTime">2019-12-28T18:10:04+00:00</lastModificationDateTime>
+            <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-28T18:10:04+00:00</lastPublicationDateTime>
+            <properties/>
+           </variant>
+           <node identifier="17e61a8c-3f2a-4d80-b3cf-4464c9721d42" nodeName="node-h4u16f3mwl6lo">
+            <variant sortingIndex="225" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Content.Text" version="7" removed="" hidden="" hiddenInIndex="">
+             <dimensions>
+              <language>en</language>
+             </dimensions>
+             <accessRoles __type="array"/>
+             <creationDateTime __type="object" __classname="DateTime">2019-12-28T18:15:53+00:00</creationDateTime>
+             <lastModificationDateTime __type="object" __classname="DateTime">2019-12-29T15:38:16+00:00</lastModificationDateTime>
+             <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-29T15:38:16+00:00</lastPublicationDateTime>
+             <properties>
+              <text __type="string">&lt;h3&gt;Ihre Kompetenz ist unser Fortschritt!&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Wir bieten Ihnen viel Abwechslung, Kreativität und Spaß in einem spannenden Arbeitsumfeld mit großer Zukunft in der Automotivebranche.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ihre Chance auf attraktive Rahmenbedingungen. Bei uns haben Sie Raum für Eigeninitiative und Aufstiegsmöglichkeiten!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Wir fördern und fordern unsere Mitarbeiter, um ihnen die persönliche Entfaltung zu ermöglichen, die jeder Mensch anstrebt.&lt;/strong&gt;&lt;/p&gt;</text>
+             </properties>
+            </variant>
+           </node>
+           <node identifier="5c7fed29-d197-4571-977d-ac8ba36c0d45" nodeName="node-zahjjj0pundyn">
+            <variant sortingIndex="100" workspace="live" nodeType="GeosphereWeb.Bootstrap43:Content.Text" version="17" removed="" hidden="" hiddenInIndex="">
+             <dimensions>
+              <language>en</language>
+             </dimensions>
+             <accessRoles __type="array"/>
+             <creationDateTime __type="object" __classname="DateTime">2019-12-28T18:13:46+00:00</creationDateTime>
+             <lastModificationDateTime __type="object" __classname="DateTime">2019-12-29T15:33:48+00:00</lastModificationDateTime>
+             <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-29T15:33:48+00:00</lastPublicationDateTime>
+             <properties>
+              <text __type="string">&lt;h3&gt;Für die Entwicklung von technologisch hochwertigen Fahrzeuge suchen wir Sie als&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Berufseinsteiger Automotive (m/w)&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Berufseinsteiger (m/w)&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Bordnetzentwickler 2D (m/w)&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Bordnetzentwickler 3D (m/w)&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Entwickler Automotive (m/w)&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Projektmanager (m/w)&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Werkstudenten (m/w)&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;</text>
+             </properties>
+            </variant>
+           </node>
+          </node>
+         </node>
+         <node identifier="a2113c03-9c7d-4b36-9432-a1caeec172a6" nodeName="node-gn8j7q6ch00gu">
+          <variant sortingIndex="250" workspace="live" nodeType="GeosphereWeb.ApexEngineering:Content.Headline" version="15" removed="" hidden="" hiddenInIndex="">
+           <dimensions>
+            <language>en</language>
+           </dimensions>
+           <accessRoles __type="array"/>
+           <creationDateTime __type="object" __classname="DateTime">2019-12-28T18:12:12+00:00</creationDateTime>
+           <lastModificationDateTime __type="object" __classname="DateTime">2019-12-28T18:17:08+00:00</lastModificationDateTime>
+           <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-28T18:17:08+00:00</lastPublicationDateTime>
+           <properties>
+            <title __type="string">&lt;h2&gt;Wir suchen Dich!&lt;/h2&gt;</title>
+           </properties>
+          </variant>
+         </node>
+        </node>
+       </node>
       </node>
      </node>
      <node identifier="634c2a02-15b5-41f8-a077-f0e4af90f5fa" nodeName="node-t08ghisxfxgxk">
@@ -1106,6 +1244,14 @@
       </properties>
      </variant>
      <node identifier="c78a1120-2f5f-325f-23b8-670263d72d0d" nodeName="main">
+      <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="2" removed="" hidden="" hiddenInIndex="">
+       <dimensions/>
+       <accessRoles __type="array"/>
+       <creationDateTime __type="object" __classname="DateTime">2018-06-26T23:21:39+00:00</creationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2018-06-26T23:23:05+00:00</lastModificationDateTime>
+       <lastPublicationDateTime __type="object" __classname="DateTime">2018-06-26T23:23:05+00:00</lastPublicationDateTime>
+       <properties/>
+      </variant>
       <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="3" removed="" hidden="" hiddenInIndex="">
        <dimensions>
         <language>en</language>
@@ -1114,14 +1260,6 @@
        <creationDateTime __type="object" __classname="DateTime">2019-11-26T20:36:51+00:00</creationDateTime>
        <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T17:07:11+00:00</lastModificationDateTime>
        <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T17:07:10+00:00</lastPublicationDateTime>
-       <properties/>
-      </variant>
-      <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="2" removed="" hidden="" hiddenInIndex="">
-       <dimensions/>
-       <accessRoles __type="array"/>
-       <creationDateTime __type="object" __classname="DateTime">2018-06-26T23:21:39+00:00</creationDateTime>
-       <lastModificationDateTime __type="object" __classname="DateTime">2018-06-26T23:23:05+00:00</lastModificationDateTime>
-       <lastPublicationDateTime __type="object" __classname="DateTime">2018-06-26T23:23:05+00:00</lastPublicationDateTime>
        <properties/>
       </variant>
       <node identifier="523e8117-df1e-45fa-9158-9da877edcbbb" nodeName="node-8wbg6m8c2w9g0">
@@ -1157,17 +1295,18 @@
       </properties>
      </variant>
      <node identifier="484f9573-635c-430e-a4ee-f6580bdb9ec8" nodeName="node-3so7d4yiyjw0s">
-      <variant sortingIndex="400" workspace="live" nodeType="GeosphereWeb.ApexEngineering:Document.Page" version="4" removed="" hidden="" hiddenInIndex="">
+      <variant sortingIndex="400" workspace="live" nodeType="GeosphereWeb.ApexEngineering:Document.Page" version="5" removed="" hidden="" hiddenInIndex="">
        <dimensions>
         <language>en</language>
        </dimensions>
        <accessRoles __type="array"/>
        <creationDateTime __type="object" __classname="DateTime">2019-12-07T19:14:31+00:00</creationDateTime>
-       <lastModificationDateTime __type="object" __classname="DateTime">2019-12-13T17:18:27+00:00</lastModificationDateTime>
-       <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T21:05:09+00:00</lastPublicationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2019-12-29T15:32:05+00:00</lastModificationDateTime>
+       <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-29T15:32:05+00:00</lastPublicationDateTime>
        <properties>
         <uriPathSegment __type="string">projektmanagement</uriPathSegment>
         <title __type="string">Projektmanagement</title>
+        <additionalInfo __type="string">Unterstützung im Entwicklungsbereich</additionalInfo>
        </properties>
       </variant>
       <node identifier="bb19f0d2-2d5a-682e-09d1-60e4192ccbb5" nodeName="main">
@@ -1184,17 +1323,18 @@
       </node>
      </node>
      <node identifier="ec7781eb-231d-43b9-bc01-9afdce041b9b" nodeName="node-p3h2qgpuyqop1">
-      <variant sortingIndex="300" workspace="live" nodeType="GeosphereWeb.ApexEngineering:Document.Page" version="4" removed="" hidden="" hiddenInIndex="">
+      <variant sortingIndex="300" workspace="live" nodeType="GeosphereWeb.ApexEngineering:Document.Page" version="5" removed="" hidden="" hiddenInIndex="">
        <dimensions>
         <language>en</language>
        </dimensions>
        <accessRoles __type="array"/>
        <creationDateTime __type="object" __classname="DateTime">2019-12-07T19:13:38+00:00</creationDateTime>
-       <lastModificationDateTime __type="object" __classname="DateTime">2019-12-13T17:18:27+00:00</lastModificationDateTime>
-       <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T21:05:09+00:00</lastPublicationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2019-12-29T15:32:03+00:00</lastModificationDateTime>
+       <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-29T15:32:03+00:00</lastPublicationDateTime>
        <properties>
         <uriPathSegment __type="string">automotive-wirering</uriPathSegment>
         <title __type="string">Automotive Wirering</title>
+        <additionalInfo __type="string">Kabelbaumentwicklung</additionalInfo>
        </properties>
       </variant>
       <node identifier="821bd006-a35b-39cb-5c54-1018b7ee7786" nodeName="main">
@@ -1218,13 +1358,10 @@
          <lastModificationDateTime __type="object" __classname="DateTime">2019-12-08T21:36:20+00:00</lastModificationDateTime>
          <lastPublicationDateTime __type="object" __classname="DateTime">2019-12-08T21:36:20+00:00</lastPublicationDateTime>
          <properties>
-          <backgroundColor __type="string"></backgroundColor>
           <backgroundSize __type="string">cover</backgroundSize>
           <backgroundPosition __type="string">center bottom</backgroundPosition>
           <padding __type="boolean">1</padding>
-          <fluid __type="boolean"></fluid>
           <textWhite __type="boolean">1</textWhite>
-          <parallax __type="boolean"></parallax>
           <spacing __type="string">py-5</spacing>
           <backgroundImage __type="object" __identifier="b67cf676-8fef-4eaa-abed-7d54c0813b28" __classname="Neos\Media\Domain\Model\Image" __encoding="json">{&quot;__identity&quot;:&quot;b67cf676-8fef-4eaa-abed-7d54c0813b28&quot;,&quot;__type&quot;:&quot;Neos\\Media\\Domain\\Model\\Image&quot;,&quot;title&quot;:&quot;&quot;,&quot;copyrightNotice&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;resource&quot;:{&quot;filename&quot;:&quot;Fotolia_36644852_XS.jpg&quot;,&quot;collectionName&quot;:&quot;persistent&quot;,&quot;relativePublicationPath&quot;:&quot;&quot;,&quot;mediaType&quot;:&quot;image\/jpeg&quot;,&quot;sha1&quot;:&quot;c0d248528d53be06d0aaf4da12ac9ea7ba9c290f&quot;,&quot;hash&quot;:&quot;c0d248528d53be06d0aaf4da12ac9ea7ba9c290f&quot;,&quot;__identity&quot;:&quot;47dd7429-d6c4-4dc5-a099-2b009ae62a28&quot;}}</backgroundImage>
          </properties>

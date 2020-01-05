@@ -36,3 +36,8 @@ Neos:
       frontendConfiguration:
         defaultInlineEditor: 'ckeditor5'
         hotkeys: ~
+
+MIWeb:
+  Neos:
+    Privacy:
+      enabled: true

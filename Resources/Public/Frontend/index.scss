@@ -22,55 +22,60 @@ $theme-colors: (
 //        "custom-color": #900
 //);
 
+
 ////Remove from map
 //$theme-colors: map-remove($theme-colors, "success", "info", "danger");
 
 // Custom.scss
 // Option A: Include all of Bootstrap
 
-
 //@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/bootstrap";
 
+
+
 // Required
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/functions";
+@import "../../Sources/bootstrap-4.4.1/scss/functions";
 @import "variables";
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/mixins";
+@import "../../Sources/bootstrap-4.4.1/scss/mixins";
 
 // Optional
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/root";
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/reboot";
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/type";
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/images";
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/code";
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/grid";
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/tables";
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/forms";
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/buttons";
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/transitions";
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/dropdown";
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/button-group";
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/input-group";
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/custom-forms";
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/nav";
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/navbar";
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/card";
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/breadcrumb";
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/pagination";
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/badge";
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/jumbotron";
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/alert";
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/progress";
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/media";
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/list-group";
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/close";
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/toasts";
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/modal";
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/tooltip";
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/popover";
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/carousel";
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/spinners";
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/utilities";
-@import "../../../../../Packages/Libraries/twbs/bootstrap/scss/print";
+@import "../../Sources/bootstrap-4.4.1/scss/root";
+@import "../../Sources/bootstrap-4.4.1/scss/reboot";
+@import "../../Sources/bootstrap-4.4.1/scss/type";
+@import "../../Sources/bootstrap-4.4.1/scss/images";
+@import "../../Sources/bootstrap-4.4.1/scss/code";
+@import "../../Sources/bootstrap-4.4.1/scss/grid";
+@import "../../Sources/bootstrap-4.4.1/scss/tables";
+@import "../../Sources/bootstrap-4.4.1/scss/forms";
+@import "../../Sources/bootstrap-4.4.1/scss/buttons";
+@import "../../Sources/bootstrap-4.4.1/scss/transitions";
+@import "../../Sources/bootstrap-4.4.1/scss/dropdown";
+@import "../../Sources/bootstrap-4.4.1/scss/button-group";
+@import "../../Sources/bootstrap-4.4.1/scss/input-group";
+@import "../../Sources/bootstrap-4.4.1/scss/custom-forms";
+@import "../../Sources/bootstrap-4.4.1/scss/nav";
+@import "../../Sources/bootstrap-4.4.1/scss/navbar";
+@import "../../Sources/bootstrap-4.4.1/scss/card";
+@import "../../Sources/bootstrap-4.4.1/scss/breadcrumb";
+@import "../../Sources/bootstrap-4.4.1/scss/pagination";
+@import "../../Sources/bootstrap-4.4.1/scss/badge";
+@import "../../Sources/bootstrap-4.4.1/scss/jumbotron";
+@import "../../Sources/bootstrap-4.4.1/scss/alert";
+@import "../../Sources/bootstrap-4.4.1/scss/progress";
+@import "../../Sources/bootstrap-4.4.1/scss/media";
+@import "../../Sources/bootstrap-4.4.1/scss/list-group";
+@import "../../Sources/bootstrap-4.4.1/scss/close";
+@import "../../Sources/bootstrap-4.4.1/scss/toasts";
+@import "../../Sources/bootstrap-4.4.1/scss/modal";
+@import "../../Sources/bootstrap-4.4.1/scss/tooltip";
+@import "../../Sources/bootstrap-4.4.1/scss/popover";
+@import "../../Sources/bootstrap-4.4.1/scss/carousel";
+@import "../../Sources/bootstrap-4.4.1/scss/spinners";
+@import "../../Sources/bootstrap-4.4.1/scss/utilities";
+@import "../../Sources/bootstrap-4.4.1/scss/print";
 
 // Meine eigenen CSS Anpassungen
+@import "theme_colors";
 @import "menue";
+@import "main";
+@import "footer";

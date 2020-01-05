@@ -17,6 +17,11 @@ prototype(Carbon.Link:Content) {
     }
 }
 
+prototype(GeosphereWeb.Bootstrap43:Content.Text) {
+    text.@process.replaceApexSol = ${String.pregReplace(value, '/(APEX\sSolutions\sGmbH)/', ' <span class="firmname2">$1</span> ')}
+    text.@process.replaceApexEng = ${String.pregReplace(value, '/(APEX\sEngineering\sGmbH)/', ' <span class="firmname">$1</span> ' )}
+    text.@process.replaceApexEng2 = ${String.pregReplace(value, '/(APEX)(?!Engineering)/', ' <span class="firmname">$1</span> ')}
+}
 
 
 //<span @if.hasSubLink={props.isSubLink} class="nav-subline">{props.zusaetzlicherText}</span>

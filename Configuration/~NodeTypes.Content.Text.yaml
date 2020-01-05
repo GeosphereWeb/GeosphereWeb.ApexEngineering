@@ -1,0 +1,17 @@
+#'GeosphereWeb.ApexEngineering:Content.Text':
+#  superTypes:
+#    'Neos.Neos:Content': true
+#  ui:
+#    label: Text
+#    icon: icon-file-text
+#    position: 200
+#    inlineEditable: true
+#  properties:
+#    text:
+#      ui:
+#        inline:
+#          editorOptions:
+#            placeholder: '<p>Enter text here...</p>'
+#            hyphens: true
+#      options:
+#        silhouette: text.free

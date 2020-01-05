@@ -1,0 +1,18 @@
+.main-footer {
+    background-color: $main_footer_bgr;
+    color: $menue_textColor_subline;
+
+    .firmname {
+        font-weight: 500;
+        color: $footer_text-color-apexlogo;
+    }
+
+    .footerItems a {
+        margin-right: 2em;
+    }
+}
+
+.sticky-footer-2-bottom {
+    position: absolute;
+    bottom: 0;
+}

@@ -1,189 +1,136 @@
-$menue_underlineColor: #237dbd;
-$menue_textColor: rgb(67, 67, 72);
-$menue_textColor_subline: #445e6f;
-$menue_textColor_night: rgb(140, 140, 145);
-$menue_textColorHover: #237dbd;
-$menue_GeosphereWeb-header_bgr: rgba(19, 47, 76, 0.98);
-$main_text-color-apexlogo: #1670B5;
-$footer_text-color-apexlogo: #1670B5;
-$main_footer_bgr: #001220;
 
 @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap');
 //<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet">
 
 .GeosphereWeb-header {
-  font-family: 'Roboto', sans-serif;
-  z-index: 2000;
-  position: absolute;
-  width: 100%;
-  display: flex;
-  flex-direction: row;
-  font-size: 1rem;
-  font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+    z-index: 2000;
+    position: absolute;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    font-size: 1rem;
+    font-weight: 500;
 
-  transition-property: background-color;
-  transition-duration: 0.6s;
-  transition-timing-function: cubic-bezier(0.01, 1.09, 1, 0.99);
-  transition-delay: 0s;
+    transition-property: background-color;
+    transition-duration: 0.6s;
+    transition-timing-function: cubic-bezier(0.01, 1.09, 1, 0.99);
+    transition-delay: 0s;
 
-  a {
-    text-decoration: none;
-    border: none;
-    display: block;
-    color: $menue_textColor;
-  }
-}
-
-ul {
-  list-style: none;
-  padding-inline-start: 0px;
+    a {
+        text-decoration: none;
+        border: none;
+        display: block;
+        color: $menue_textColor;
+    }
 }
 
 .main-nav {
-  flex-grow: 0;
-  width: 100%;
-  // background-color: beige;
-  padding: 0 0 0 2rem;
-}
-
-.logo {
-  display: flex;
-  flex-direction: column;
-  justify-content: end;
-  padding: 0.75rem 1.5rem 0.5rem 1.5rem;
-}
-
-ul.navigation {
-  display: flex;
-}
-li.navigation-item--level-1 {
-  // background-color: blueviolet;
-
-  // Abstand des Ersten Levels der NavigationItems
-  padding: 3.5rem 0.75rem 1.5rem 0.75rem;
-  flex-shrink: 0;
-
-  > a {
+    flex-grow: 0;
     width: 100%;
-    transition: all 0.35s ease-out;
-    // background-color: rgb(80, 117, 72);
-    padding: 0 0.75rem 0.5rem 0.75rem;
-    // margin-bottom, damit wenn bei hover der Border gesetzt wird, das gesamte A Element trotzdem
-    // gleich hoch bleibt.
-    margin-bottom: 2px;
-  }
+    // background-color: beige;
+    padding: 0 0 0 2rem;
 
-  &:hover {
-    // background-color: blue;
+    ul {
+        list-style: none;
+        padding-inline-start: 0px;
+    }
 
-    > a {
-      border-bottom: 2px solid $menue_underlineColor;
-      // wird gebraucht, um das border-bottom auszugleichen.
-      margin-bottom: 0px;
-      color: $menue_textColorHover;
+    ul.navigation {
+        display: flex;
+    }
+
+    li.navigation-item--level-1 {
+        // background-color: blueviolet;
+
+        // Abstand des Ersten Levels der NavigationItems
+        padding: 3.5rem 0.75rem 1.5rem 0.75rem;
+        flex-shrink: 0;
+
+        > a {
+            width: 100%;
+            transition: all 0.35s ease-out;
+            // background-color: rgb(80, 117, 72);
+            padding: 0 0.75rem 0.5rem 0.75rem;
+            // margin-bottom, damit wenn bei hover der Border gesetzt wird, das gesamte A Element trotzdem
+            // gleich hoch bleibt.
+            margin-bottom: 2px;
+        }
+
+        &:hover {
+            // background-color: blue;
+
+            > a {
+                border-bottom: 2px solid $menue_underlineColor;
+                // wird gebraucht, um das border-bottom auszugleichen.
+                margin-bottom: 0px;
+                color: $menue_textColorHover;
+            }
+
+            ul.navigation-level--level-2 {
+                display: block;
+            }
+        }
+
+
     }
 
     ul.navigation-level--level-2 {
-      display: block;
-    }
-  }
+        // background-color: chartreuse;
+        margin-top: 1.5rem;
+        padding-left: 0.8rem;
+        padding-top: 0px;
+        position: absolute;
+        display: none;
 
- 
-}
+        li {
+            display: block;
+            width: 100%;
 
-ul.navigation-level--level-2 {
-  // background-color: chartreuse;
-  margin-top: 1.5rem;
-  padding-left: 0.8rem;
-  padding-top: 0px;
-  position: absolute;
-  display: none;
-  li {
-    display: block;
-    width: 100%;
+            a {
+                // background-color: darkgoldenrod;
+                padding: 0.25rem 0.25rem 0.5rem 0.25rem;
 
-    a {
-      // background-color: darkgoldenrod;
-      padding: 0.25rem 0.25rem 0.5rem 0.25rem;
-      .nav-subline {
-        font-weight: normal;
-        color: $menue_textColor_subline;
-      }
+                .nav-subline {
+                    font-weight: normal;
+                    color: $menue_textColor_subline;
+                }
 
-      &:hover {
-        color: $menue_textColorHover;
+                &:hover {
+                    color: $menue_textColorHover;
 
-        .nav-subline {
-          color: $menue_textColor_subline;
+                    .nav-subline {
+                        color: $menue_textColor_subline;
+                    }
+                }
+            }
+
+            p {
+                // background-color: cornflowerblue;
+                padding: 0.25rem 0.25rem 0.75rem 0.25rem;
+            }
         }
-      }
     }
-    p {
-      // background-color: cornflowerblue;
-      padding: 0.25rem 0.25rem 0.75rem 0.25rem;
-    }
-  }
 }
+
+.logo {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    padding: 0.75rem 1.5rem 0.5rem 1.5rem;
+}
+
+
 
 .show-bg-full {
-  // transition-property: background-color;
-  // transition-duration: 1s;
-  // transition-timing-function: cubic-bezier(0.01, 1.09, 1, 0.99);
-  // transition-delay: 0s;
-  background-color: $menue_GeosphereWeb-header_bgr;
-  // filter: blur(2px);
-  a {
-    color: $menue_textColor_night;
-  }
-}
-
-/*
-// Für den Main-Bereich wird der Abstand von den Seiten eingerichtet
-// Abstand von oben wird so eingestellt, dass die grundlegende Navigation
-// Nicht gestörrt wird
-*/
-.main {
-  padding: 10rem 0rem 1rem 0rem;
-  .firmname {
-    font-weight: 500;
-    color: $main_text-color-apexlogo;
-  }
-  .text-white {
-    .firmname {
-      font-weight: 500;
-      color: white;
+    // transition-property: background-color;
+    // transition-duration: 1s;
+    // transition-timing-function: cubic-bezier(0.01, 1.09, 1, 0.99);
+    // transition-delay: 0s;
+    background-color: $menue_GeosphereWeb-header_bgr;
+    // filter: blur(2px);
+    a {
+        color: $menue_textColor_night;
     }
-  }
 }
 
-.main-footer {
-  background-color: $main_footer_bgr;
-  color: $menue_textColor_subline;
-  .firmname {
-    font-weight: 500;
-    color: $footer_text-color-apexlogo;
-  }
-  .footerItems a{
-    margin-right: 2em;
-  }
-}
-.sticky-footer-2-bottom {
-  position: absolute;
-  bottom: 0;
-}
-
-// integration von Google map
-.responsiveContainer {
-  position: relative;
-  padding-bottom: 56%;
-  height: 0;
-  overflow: hidden;
-}
-
-.responsiveContainer iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
