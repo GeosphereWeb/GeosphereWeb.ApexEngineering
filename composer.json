@@ -4,32 +4,30 @@
     "description": "A Neos website",
     "type": "neos-site",
     "require": {
-        "neos/neos": "^5.0",
-        "neos/neos-ui": "^5.0",
-        "neos/neos-setup": "*",
-        "neos/fusion-afx": "~1.2",
+        "neos/neos": "^5.1",
+        "neos/fusion-afx": "~1.4",
         "neos/googleanalytics": "^3.1",
         "neos/redirecthandler": "^4.0",
         "neos/redirecthandler-neosadapter": "^4.0",
         "neos/redirecthandler-databasestorage": "^4.0",
         "neos/redirecthandler-ui": "^2.0",
         "neos/seo": "^3.0",
+        "neos/nodetypes-contentreferences": "^5.1",
 
-        "carbon/compression": "~2.0",
-        "carbon/link": "~1.4",
-        "carbon/includeassets": "~3.5",
+        "carbon/compression": "^2.0",
+        "carbon/link": "^1.4",
+        "carbon/includeassets": "^3.5",
+
         "codeq/unicodenormalizer": "~2.2",
+
         "flowpack/cachebuster": "~1.0",
         "flowpack/nodetemplates": "~1.1",
+
         "moc/notfound": "~3.1",
         "shel/neos-hyphens": "~1.0",
-        "sitegeist/silhouettes": "~1.0",
 
-        "neos/nodetypes-contentreferences": "*",
-
-        "twbs/bootstrap": "^4.0.0",
-        "geosphereweb/bootstrap43": "@dev"
-
+        "twbs/bootstrap": "^4.4",
+        "geosphereweb/bootstrap43": "dev-master"
     },
     "extra": {
         "neos": {
